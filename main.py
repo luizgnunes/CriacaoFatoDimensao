@@ -4,7 +4,7 @@ import pandas as pd
 # converção da coluna 'date' em datetime formato ISO e granularização da coluna 'date'
 # em trimestre, mês do ano, semana do ano, dia da semana e dia do mês
 
-df = pd.read_csv(r'C:\Users\luizm\PycharmProjects\cubo_olap\data\MOCK_DATA.csv', sep=';')
+df = pd.read_csv('MOCK_DATA.csv', sep=';')
 df["state"].fillna("N/A", inplace=True)
 df['date'] = pd.to_datetime(df['date'], format='%d-%m-%Y')
 df.loc[:, 'month'] = df['date'].dt.month
