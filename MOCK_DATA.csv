@@ -1,0 +1,1001 @@
+id;date;value;qty;state;city;store;brand;model
+1;10-05-2022;236957.98;2216;;Kombësi;Lang-Von;Audi;A6
+2;20-08-2022;201084.46;5428;;Xiaoling;Lemke Group;Volvo;C70
+3;22-08-2022;477924.03;47;;Pateros;"Wisoky; Pouros and Kunde";Pontiac;GTO
+4;30-01-2022;364080.88;5219;;Limatambo;Rice-Corwin;Honda;Fit
+5;20-12-2022;183626.22;8153;15;Vila Ribeiro;Herman-Paucek;Mitsubishi;3000GT
+6;12-01-2022;196541.58;8153;;Longzhou;Thiel-Stokes;GMC;Sonoma Club Coupe
+7;03-06-2022;67518.91;1612;;Garbolovo;Balistreri and Sons;Ford;E-Series
+8;22-11-2022;13847.90;7328;;Gagarawa;"Gaylord; Blanda and Stokes";Eagle;Vision
+9;27-06-2022;130072.55;5478;;Hexi;Klein LLC;Ford;GT500
+10;25-12-2022;265529.34;8304;;Polanka Wielka;"Purdy; Bruen and Wisoky";Chevrolet;Blazer
+11;16-04-2022;893330.18;542;07;Amsterdam Westpoort;Aufderhar-Veum;GMC;Jimmy
+12;16-02-2022;89250.61;5841;;Banjar Geriana Kangin;"Blanda; Leffler and Klein";Land Rover;Discovery
+13;30-01-2022;522298.52;119;;Rutana;Collier and Sons;Jeep;Liberty
+14;08-09-2022;118180.39;5902;16;Boucinha;"Gorczany; Cronin and Maggio";Mercury;Tracer
+15;15-11-2022;994738.01;5618;;Nūsay;Murray-Altenwerth;Honda;CR-X
+16;14-07-2022;273121.72;1465;;Batangafo;Bechtelar-Schuster;Audi;TT
+17;26-11-2022;585778.97;234;;Isojoki;Friesen-Herzog;BMW;750
+18;20-06-2022;195309.72;6843;;Paulínia;McDermott and Sons;Ford;Ranger
+19;16-06-2022;332607.16;3231;;Yamango;Hyatt-Von;Oldsmobile;Cutlass
+20;08-01-2022;895599.71;7373;A7;Rouen;"Wintheiser; Wolf and Marvin";Mazda;CX-7
+21;01-07-2022;306685.51;7844;;Bella Vista;"Hudson; VonRueden and Grady";Dodge;Ram Van 1500
+22;15-09-2022;706728.35;9192;;Pāshmūl;"Feil; Green and Feil";Nissan;Sentra
+23;21-07-2022;299685.85;8821;;Jesús María;Heller Inc;Aston Martin;Vantage
+24;26-12-2022;109444.63;2171;;Zhanjiang;"D'Amore; Haag and Gutmann";Acura;CL
+25;18-04-2022;546885.84;4862;;Houping;Konopelski Group;Ford;E-Series
+26;16-06-2022;53868.31;9402;;Itu;Stokes and Sons;BMW;M3
+27;06-04-2022;181831.66;6504;06;Praia da Tocha;Vandervort Group;Hyundai;Elantra
+28;29-06-2022;922121.06;6336;;Guicheng;Morissette-Bechtelar;Infiniti;G
+29;07-11-2022;937625.06;4342;;Ardirejo;Von-Schiller;Audi;4000s Quattro
+30;21-01-2022;641222.40;158;;Bernardo Larroudé;Bins-Blick;Ford;Expedition
+31;22-03-2022;341563.45;5019;;Gersikputih Tengah;Ruecker-Zieme;Mitsubishi;Truck
+32;26-04-2022;258760.06;6682;;Tuopu Luke;Little-Beer;Chevrolet;Corvette
+33;09-08-2022;705373.53;7080;;Qaxa;Hessel-Rogahn;Ford;Fiesta
+34;16-11-2022;132392.33;6624;;Tapiramutá;Herzog Group;BMW;5 Series
+35;04-09-2022;196147.48;4804;B2;Saint-Dié-des-Vosges;Leannon Inc;Buick;Century
+36;25-07-2022;143852.69;4087;;Olo;Tillman-Gleichner;Cadillac;Escalade
+37;11-02-2022;100848.68;5616;;Libato;Dach-Vandervort;Volkswagen;Golf
+38;31-01-2022;513835.81;6625;F;Nässjö;Gottlieb-Rice;Pontiac;Grand Prix
+39;21-10-2022;952004.73;1540;;Taurage;"Beer; Weissnat and Bruen";Honda;Fit
+40;30-06-2022;14526.38;5232;;Bor;Smitham LLC;Saturn;Aura
+41;03-01-2022;917153.84;5992;;Donglu;Kihn-Ebert;GMC;Envoy
+42;18-01-2022;742264.84;3987;S;Kristinehamn;Christiansen-Kihn;Honda;Civic
+43;11-03-2022;356772.73;9237;;Ngou;"Stark; Jaskolski and Schroeder";Cadillac;Catera
+44;25-12-2022;702555.71;3148;;Na Muen;Mann-Ruecker;GMC;Suburban 1500
+45;13-01-2022;273079.17;5619;;Kajiki;Hoppe-Daugherty;Toyota;4Runner
+46;01-02-2022;417242.54;9073;;Fermoy;Dickens and Sons;Chevrolet;SSR
+47;25-05-2022;634384.84;2134;;Zhengmo;Kuhlman-Abshire;Lincoln;MKX
+48;05-06-2022;398380.25;9363;M;Helsingborg;Bogisich-Thompson;Chevrolet;Express 2500
+49;22-01-2022;714316.88;3157;;Benešov nad Černou;Zulauf and Sons;Ford;E150
+50;30-12-2022;837141.17;2126;;Huangkeng;"Osinski; Kshlerin and Moore";Chevrolet;Blazer
+51;13-07-2022;580984.26;1897;;Mojorembun;Roob-Turner;Lamborghini;Diablo
+52;30-01-2022;231752.61;3332;;Whitegate;Ratke Inc;Mazda;Miata MX-5
+53;31-07-2022;908790.68;5106;;Zuru;Schuster-Zboncak;Jeep;Liberty
+54;26-06-2022;735451.13;9082;;Dahao;"Hackett; Kutch and Bartoletti";Chevrolet;Suburban 1500
+55;17-01-2022;533732.07;6488;;Luna;Miller-Tremblay;Ford;F350
+56;17-10-2022;796040.79;7054;;Bongor;Cole LLC;Bentley;Continental
+57;01-02-2022;497833.54;4606;ON;Ingersoll;"Romaguera; Huels and Reinger";Cadillac;STS
+58;24-09-2022;684128.83;6198;;Mlonggo;Conroy and Sons;Mercury;Monterey
+59;15-08-2022;293833.03;9689;;Tōkamachi;Grant Group;Cadillac;DeVille
+60;28-04-2022;885742.40;4932;;Tubuhue;Sanford-Kirlin;Citroën;CX
+61;04-08-2022;411258.74;5624;;Tangping;Schmitt-Doyle;Chevrolet;Corsica
+62;06-07-2022;697998.61;9497;;Kilifi;Strosin and Sons;Mercury;Grand Marquis
+63;25-03-2022;558092.05;5482;;Maguilling;Senger-Moen;Ford;E350
+64;18-09-2022;426118.35;1188;;Ringinrejo;Ziemann and Sons;Nissan;Maxima
+65;30-06-2022;166693.63;6190;;Hongshi;Bartell Inc;Ford;Mustang
+66;26-12-2022;354106.22;6406;;Kembangarum;Thompson-Leuschke;Dodge;Ram 1500
+67;04-01-2022;19400.24;9718;;Qingzhou;Jacobi Group;Chevrolet;Lumina
+68;07-04-2022;694529.27;9402;;Guanxi;Friesen-Ruecker;Oldsmobile;Bravada
+69;15-05-2022;688437.44;4506;;Sarnów;"Moen; Schamberger and Welch";Suzuki;Aerio
+70;20-09-2022;925483.85;2363;LM;Milano;McKenzie and Sons;Ford;Econoline E350
+71;09-07-2022;777346.64;7672;VER;Guadalupe Victoria;D'Amore-Kohler;Ford;F150
+72;31-08-2022;578893.53;8195;;Yangzhuang;"Beahan; Thompson and Kohler";Buick;Century
+73;22-04-2022;872851.33;7208;;Studenec;"Adams; Stehr and Bradtke";Eagle;Summit
+74;07-04-2022;939687.56;9087;;Donggou;Cummerata LLC;Honda;Fit
+75;30-05-2022;43041.02;2035;;Shuiyang;Runolfsdottir-Botsford;Mitsubishi;Eclipse
+76;05-02-2022;187962.95;6160;;Kenyau;Zboncak Group;Pontiac;LeMans
+77;21-07-2022;952031.74;4329;C1;Strasbourg;"Dibbert; Cruickshank and Kilback";Mercedes-Benz;E-Class
+78;12-05-2022;871953.75;7025;;Szczecinek;West Inc;Buick;Skylark
+79;06-12-2022;762829.47;80;;Togu;"Yundt; Ledner and Renner";Mercedes-Benz;M-Class
+80;31-07-2022;311488.47;1015;S;Karlstad;Bahringer-Wintheiser;Cadillac;Seville
+81;11-07-2022;824135.08;9547;;Boyarka;Hackett-Olson;Volkswagen;Jetta
+82;03-08-2022;729887.94;7026;;Getung;"Ankunding; Predovic and Jaskolski";Mercury;Cougar
+83;23-12-2022;114699.48;3071;B8;Salon-de-Provence;Morissette Group;Buick;Skyhawk
+84;08-08-2022;221715.11;3553;;Fengxizhai;"Stoltenberg; Murphy and Breitenberg";Lexus;IS
+85;01-08-2022;90732.09;828;;Listvyanka;"Heaney; Smitham and Cruickshank";Toyota;MR2
+86;15-05-2022;344155.35;2774;;Niška Banja;"Kiehn; Hand and Bernier";Mitsubishi;Starion
+87;14-01-2022;796447.36;8889;;Keyi;Schaefer-Gottlieb;Chevrolet;K5 Blazer
+88;29-07-2022;198002.60;5918;;Tagapul-an;Swaniawski-Upton;Chevrolet;Suburban
+89;28-07-2022;659103.90;555;;Renhe;Becker-Shanahan;Suzuki;XL7
+90;27-01-2022;657870.94;1635;;Marinići;Runte-Treutel;Chevrolet;APV
+91;24-08-2022;934899.58;4698;QC;Plessisville;Boyle and Sons;Aston Martin;DBS
+92;01-05-2022;521322.45;3357;;Mozdok;Terry-Tremblay;Mercury;Cougar
+93;13-11-2022;324090.86;6033;;Sernur;Blick and Sons;Mercedes-Benz;E-Class
+94;27-04-2022;349727.05;7193;DC;Washington;"Hyatt; Robel and Mayert";Porsche;Boxster
+95;04-05-2022;774945.61;4148;;Xin’an;Armstrong Group;Citroën;SM
+96;25-08-2022;405315.18;4863;;Germiston;Marks Inc;Mitsubishi;Montero
+97;21-12-2022;374468.71;9873;;Ghauspur;White Inc;Porsche;911
+98;15-04-2022;458673.87;4176;;Hanzhong;Emard LLC;Mitsubishi;Outlander
+99;24-09-2022;847734.04;3405;;Babakankalong;Pollich Inc;Jaguar;XK Series
+100;20-01-2022;799903.06;2428;;Vilnius;"O'Reilly; Dach and Auer";Toyota;Sienna
+101;24-01-2022;310265.81;6252;;Pančevo;"Kassulke; Russel and Romaguera";Mazda;Mazda5
+102;03-06-2022;550961.77;9138;BU;Budapest;Kessler and Sons;Lincoln;Town Car
+103;23-10-2022;825447.84;1704;;Hadapu Zhen;"Tromp; Lesch and Bernier";Dodge;Dakota Club
+104;01-12-2022;121672.98;9286;AK;Anchorage;Fisher LLC;Jeep;Grand Cherokee
+105;26-03-2022;508141.04;2237;;Brodek u Přerova;"Baumbach; Zboncak and Metz";Maserati;Coupe
+106;23-10-2022;295777.78;2113;;Pasiraman;Nader-Dickens;GMC;Vandura 1500
+107;29-12-2022;65961.57;2431;TX;Gatesville;Gaylord and Sons;Land Rover;Freelander
+108;25-12-2022;148492.58;4078;;Giebułtów;Brown-Hilll;BMW;5 Series
+109;20-01-2022;385182.50;9563;;Pianling;Haley LLC;Suzuki;Swift
+110;29-03-2022;621972.22;5067;;Selat;Stiedemann-Lubowitz;Chevrolet;Express 2500
+111;22-10-2022;643308.19;157;;Bragança Paulista;"Johnston; Weissnat and Turner";Mercedes-Benz;SLK-Class
+112;15-09-2022;130310.48;6347;97;Boé;"Cummings; Yost and Cummerata";Jeep;Wrangler
+113;30-09-2022;832223.34;934;;Jinjia;Bruen Inc;Plymouth;Horizon
+114;10-05-2022;620420.05;122;;Ciawitali;"Grady; Cassin and Gorczany";Rolls-Royce;Phantom
+115;16-10-2022;249776.01;6793;;Conchagua;"Weissnat; Borer and Shanahan";Mercedes-Benz;SL-Class
+116;22-04-2022;68545.47;9057;;Thap Khlo;"Kulas; Konopelski and Batz";Dodge;Ram Van 2500
+117;17-05-2022;813696.55;865;;Verkhnyaya Belka;Jakubowski-Hessel;MINI;Cooper
+118;23-06-2022;211515.23;5981;;Watodei;O'Reilly-Langworth;Nissan;200SX
+119;01-05-2022;384487.97;5767;A8;Paris 19;Kozey-Mertz;Oldsmobile;Aurora
+120;22-10-2022;843249.51;7020;;Łąka Prudnicka;"Emmerich; Barrows and Mayer";Volkswagen;GTI
+121;11-11-2022;528350.63;8434;;Mahdalynivka;Davis-Graham;Saturn;S-Series
+122;08-07-2022;263650.03;140;;Al Ḩashwah;Bogisich-MacGyver;Cadillac;STS
+123;27-06-2022;574390.72;2717;;Mulino;Johnson-Bergstrom;Nissan;Titan
+124;16-04-2022;149745.65;513;;Khun Han;Greenholt and Sons;BMW;7 Series
+125;21-12-2022;620151.64;1899;;Ključ;Bradtke and Sons;Cadillac;XLR-V
+126;07-11-2022;760340.33;2972;;Wierzbica;Marks-Fisher;Mitsubishi;Mighty Max
+127;23-05-2022;400948.70;38;;Somorpenang;Maggio and Sons;Mercedes-Benz;M-Class
+128;11-11-2022;702432.77;8901;;La Cruz;Hammes-Kuphal;Toyota;Truck Xtracab SR5
+129;28-03-2022;283845.26;4394;;Guling;Halvorson Inc;Toyota;MR2
+130;03-05-2022;78531.86;9781;;Cibunar;"Cummings; Metz and Mueller";Toyota;Highlander
+131;19-07-2022;908336.82;9793;;Protaras;"Metz; Kilback and McKenzie";Ford;E-Series
+132;25-05-2022;795737.06;8397;;Ballisodare;Gutkowski-Sporer;Nissan;Leaf
+133;19-01-2022;611910.32;3871;;Mbandjok;Crooks Inc;Panoz;Esperante
+134;14-07-2022;840391.86;5397;CA;Los Angeles;"Weissnat; Kuvalis and Schaefer";Saturn;Outlook
+135;29-11-2022;338941.49;5132;;Filótion;"Jenkins; Flatley and Beahan";Mercedes-Benz;SL-Class
+136;20-11-2022;636817.13;5138;;Bolgar;Daniel-Walsh;GMC;Suburban 2500
+137;13-02-2022;153135.69;652;;Novopokrovka;"Grimes; Cummerata and Conn";Chevrolet;Lumina APV
+138;18-08-2022;990798.54;4587;;Yaguajay;Bernier-O'Connell;Hyundai;Tiburon
+139;11-10-2022;73898.04;1367;;Jingcheng;"Collins; Muller and Armstrong";Hyundai;Elantra
+140;01-06-2022;646429.03;2197;;Kotabumi;Rolfson and Sons;Mercedes-Benz;SLK-Class
+141;30-10-2022;101517.84;4209;;Corozal;"Schaefer; Buckridge and Blick";Mitsubishi;Mighty Max
+142;28-09-2022;133086.84;2038;;Kaiaf;Trantow Inc;Lexus;SC
+143;17-02-2022;547595.85;9079;;Herong;Blanda Inc;Suzuki;Samurai
+144;01-02-2022;329262.33;8377;;Takikawa;"Kuvalis; Treutel and Pacocha";Dodge;Ram Van 3500
+145;10-02-2022;874863.56;5593;;Staraya Mayna;Leffler Group;Ford;Mustang
+146;13-07-2022;605969.99;8740;;Senglea;Stracke-Zemlak;Lexus;IS
+147;25-12-2022;234367.68;282;A9;Nîmes;Mayert and Sons;Mitsubishi;Eclipse
+148;17-12-2022;527684.65;4321;;Magdalena;"Boyer; Hilpert and Rutherford";Dodge;Ram 2500
+149;01-03-2022;246672.59;3230;;Paitan;Feest-Donnelly;Hyundai;Sonata
+150;13-02-2022;940378.80;418;;Panganiban;Kub-Larson;Kia;Sephia
+151;12-12-2022;912044.20;5409;X;Gävle;Funk-McLaughlin;Acura;RL
+152;05-10-2022;143655.99;8854;;Khodzhi-Gasan;Stiedemann-Corwin;Ford;Contour
+153;08-03-2022;874409.61;1767;;Bao’an;Johns Group;Hyundai;Sonata
+154;07-10-2022;696968.52;2373;AB;Solna;McLaughlin Group;Toyota;4Runner
+155;15-11-2022;942974.86;495;A1;Dijon;Carter Inc;Suzuki;Esteem
+156;21-02-2022;965210.63;1546;13;Lameira;"Feeney; Schinner and Pacocha";Fairthorpe;Rockette
+157;06-09-2022;426724.02;2907;;Narva;"Harvey; Schulist and Emard";Volkswagen;GTI
+158;07-03-2022;397694.49;905;;Pamyat’ Parizhskoy Kommuny;Ratke-Hudson;Buick;Century
+159;21-02-2022;595175.66;907;;Duping;"Ebert; Stanton and Hyatt";Chevrolet;Cobalt
+160;30-04-2022;724556.26;6887;;Belgorod;Reinger LLC;GMC;Yukon
+161;12-04-2022;970295.94;402;;Tahilt;Glover and Sons;Hyundai;Santa Fe
+162;25-12-2022;820235.42;1817;A2;Rennes;"Satterfield; Jacobs and Rau";Pontiac;Firebird
+163;21-03-2022;826573.89;1439;;Bayanbaraat;Pagac LLC;Mazda;Miata MX-5
+164;13-02-2022;996760.75;6269;;Lajeado;"Rogahn; Murray and Schumm";Mercedes-Benz;S-Class
+165;07-09-2022;119944.27;5805;;Al Quwaysimah;Reilly-Stark;GMC;Sierra 1500
+166;23-01-2022;920175.81;8367;;Pokrovskoye;Kirlin-Gottlieb;BMW;M3
+167;29-01-2022;859793.18;1012;;Mandaon;Pouros-Gislason;Dodge;Ram 2500
+168;31-10-2022;329852.50;3449;;Greenville;"Doyle; Schneider and Torp";Mercedes-Benz;SL-Class
+169;31-12-2021;650087.22;4978;;Kobiernice;Rolfson LLC;Buick;Electra
+170;23-01-2022;872618.08;1200;;Beloye;Kemmer-Tremblay;Porsche;911
+171;21-09-2022;713877.55;3500;;San Juan Sacatepéquez;Lebsack-Windler;Toyota;Avalon
+172;26-04-2022;479417.73;8773;18;Igreja;Wehner-Bosco;Lexus;ES
+173;24-01-2022;399003.38;6130;;Xinying;"Goodwin; Vandervort and Streich";Ford;LTD
+174;31-10-2022;233423.92;8094;;Lukulu;"Thiel; Treutel and Kautzer";Mercedes-Benz;SL-Class
+175;23-07-2022;451023.77;560;;Maykopskoye;"Swaniawski; Kirlin and Stanton";Mitsubishi;3000GT
+176;27-03-2022;346758.02;1384;01;Pigeiros;Glover-Renner;Bentley;Continental Flying Spur
+177;11-09-2022;902345.89;5495;;Libas;"Waters; Glover and Deckow";Infiniti;G
+178;20-07-2022;793606.21;7338;;Cipeundeuy;Steuber-Rempel;Pontiac;Montana SV6
+179;21-08-2022;948473.71;6886;;Tân Hiệp;Gerlach-Streich;Hyundai;Santa Fe
+180;14-07-2022;510344.75;4819;;Dikson;Fritsch Inc;Jaguar;XJ Series
+181;28-06-2022;834842.92;6106;;Mwene-Ditu;Gottlieb-Bergstrom;Oldsmobile;Alero
+182;19-05-2022;795820.19;1461;;Jebba;Roberts-Harber;Nissan;Xterra
+183;28-03-2022;247269.77;3086;;Buyant;"Effertz; Harvey and Kunze";Chevrolet;K5 Blazer
+184;01-03-2022;559311.83;7620;VER;Adolfo Ruiz Cortines;Flatley-Hand;GMC;Yukon XL 1500
+185;07-02-2022;675072.40;9613;E;Söderköping;Effertz-Mertz;GMC;Sonoma Club Coupe
+186;18-06-2022;476440.28;9025;;El Rancho;Boyle-Batz;GMC;Yukon
+187;06-09-2022;673339.50;4646;01;Avanca;Considine-Nitzsche;Volkswagen;Corrado
+188;16-03-2022;448394.84;224;;Tabunok;Mayer-Rippin;Dodge;Dakota
+189;19-04-2022;316755.60;4687;11;Queluz de Baixo;MacGyver Inc;GMC;1500
+190;16-10-2022;217797.46;2068;;Shaoha;Schroeder Group;Mitsubishi;Expo
+191;09-12-2022;109141.91;1752;;Maopingchang;"Gerhold; O'Conner and Gaylord";Cadillac;STS
+192;19-09-2022;833924.91;5716;;Phra Phutthabat;Auer-Considine;GMC;Yukon XL 1500
+193;16-06-2022;508481.90;9875;18;Póvoa de Santo António;Fay-Shanahan;Subaru;SVX
+194;07-07-2022;213158.05;2817;;Buenos Aires;"Ondricka; Crist and Satterfield";Subaru;Outback
+195;24-05-2022;567375.11;2949;;Danao;Brakus Inc;Lexus;IS
+196;19-03-2022;708899.20;7164;;Trzcinica;"Marquardt; Baumbach and Powlowski";Dodge;Charger
+197;09-02-2022;549423.40;6984;;Los Boquerones;Mraz LLC;Ford;E350
+198;28-09-2022;9246.37;1434;;Shahr-e Qods;Wintheiser Group;Mercedes-Benz;G-Class
+199;11-10-2022;933117.96;7987;;Ar Rahad;"Kemmer; Labadie and Davis";Volkswagen;CC
+200;04-02-2022;382264.35;7998;;Mintang;Feil-Larson;Toyota;T100
+201;03-12-2022;659014.65;4249;;Shuangxi;Connelly Group;Toyota;Sequoia
+202;01-05-2022;320855.30;1779;;Maizuru;Flatley Group;Honda;Civic
+203;26-12-2022;703966.66;805;;Árta;"Hegmann; Sipes and Fay";Chevrolet;Corvette
+204;03-08-2022;693041.66;4556;;Aiquile;"Kub; Cole and Osinski";Ford;Tempo
+205;09-05-2022;590183.22;4290;;Igbo Ora;"Moen; Carroll and Murphy";Chevrolet;TrailBlazer
+206;31-01-2022;206086.55;7578;;Zhongshanlu;Hackett-Nienow;Mercury;Grand Marquis
+207;24-11-2022;684871.94;1985;;Sabinópolis;"Maggio; Jaskolski and Wilkinson";Buick;Century
+208;12-06-2022;183220.92;5345;;Chuncheon;Schamberger Inc;Acura;RL
+209;31-01-2022;706778.70;8176;;Zhenshan;Pfeffer-Schuster;Eagle;Talon
+210;12-02-2022;707663.75;8065;;Ngangpo;"Konopelski; Batz and Waelchi";Kia;Rondo
+211;12-03-2022;64283.10;9915;;Lifuta;Weimann Inc;Volkswagen;Golf
+212;24-07-2022;505136.60;9140;A6;Dole;Turcotte LLC;Nissan;240SX
+213;17-02-2022;578262.59;7351;;Jhingergācha;Stokes-Wintheiser;Chevrolet;Tracker
+214;24-08-2022;838162.69;6699;NY;New York City;Schmeler-Greenholt;Lexus;LX
+215;13-08-2022;306876.93;3972;;Blangpulo;Bergnaum LLC;Isuzu;Space
+216;18-12-2022;848674.46;9351;;Krabi;"Beier; Bins and Lehner";Lamborghini;Gallardo
+217;25-09-2022;106369.65;8673;;Obollo-Afor;VonRueden Group;Buick;Park Avenue
+218;18-09-2022;708016.71;538;;Xiangxi;Greenholt-Shields;Mazda;Tribute
+219;20-07-2022;203369.93;9412;;Penghu;Schimmel Group;Chevrolet;Camaro
+220;15-04-2022;557596.96;7574;;Shishan;"Stiedemann; Doyle and Miller";Pontiac;Firebird
+221;05-06-2022;850294.27;9932;;Shuanghejiedao;Kertzmann Inc;Ford;Fairlane
+222;20-09-2022;710061.60;1879;MO;Saint Louis;Johnson-Koch;Mitsubishi;Excel
+223;07-07-2022;384472.47;7626;;Oubei;"Beahan; Raynor and Schamberger";Ford;Taurus
+224;13-09-2022;774332.47;2735;;Salgar;Kuphal and Sons;Mazda;B-Series Plus
+225;18-04-2022;822439.97;4157;;Tân Châu;"Von; Nolan and Witting";Buick;Century
+226;19-10-2022;420313.62;9318;;Cuamba;Connelly-Harber;Ford;F150
+227;06-04-2022;386551.55;1612;06;'s-Hertogenbosch;Rippin LLC;Mitsubishi;Outlander
+228;07-06-2022;131605.91;1476;;Changyi;Littel and Sons;GMC;Sierra 2500HD
+229;06-08-2022;596394.55;1039;AC;Skellefteå;"Sporer; Legros and Tremblay";Mercury;Mariner
+230;25-06-2022;832639.43;5784;;Didou;Schinner LLC;Honda;Civic
+231;17-03-2022;829451.86;4876;05;Heerlen;"Homenick; Rohan and Durgan";Infiniti;G35
+232;28-09-2022;915613.69;4840;;Zhongchao;Herzog-King;Ford;E-Series
+233;06-02-2022;907267.33;52;;Cibitung;"Harvey; Little and Upton";Dodge;Ram
+234;05-02-2022;1552.86;1275;;Magarao;Mante and Sons;Mazda;Mazda6
+235;30-06-2022;371428.14;3190;;Katima Mulilo;Rutherford-Leffler;Mazda;929
+236;08-10-2022;345558.20;5129;;Keyinhe;"Jacobson; Yundt and Cormier";Buick;Coachbuilder
+237;27-08-2022;559792.32;1697;;Rebe;Schiller and Sons;Mercedes-Benz;R-Class
+238;25-08-2022;154771.37;5968;10;Brejieira;Sipes-Bergstrom;Oldsmobile;Bravada
+239;03-03-2022;48316.43;6064;;Ciudad Arce;"Heidenreich; Stanton and Corkery";Chevrolet;S10
+240;23-05-2022;432756.55;3164;;Heishui;Prohaska Inc;Ford;Flex
+241;15-10-2022;531805.12;2607;;Ikeda;"Metz; Schuster and Ryan";Isuzu;Ascender
+242;15-03-2022;831278.04;4673;;Dukhovshchina;Windler and Sons;Pontiac;Trans Sport
+243;13-03-2022;998720.87;9979;;Sanom;"Green; Gorczany and Schuster";Mitsubishi;Diamante
+244;27-01-2022;949486.49;1130;;Mompós;Mueller-Rohan;Lexus;LS
+245;22-02-2022;394194.08;5660;;Alegrete;Daugherty and Sons;Ford;Taurus
+246;03-02-2022;327338.28;7938;;Sędziszów;Brakus and Sons;Lincoln;Continental
+247;30-09-2022;335198.36;1817;15;Pinhal Novo;Kunde LLC;Ford;Thunderbird
+248;07-10-2022;813388.19;538;W;Falun;"Jaskolski; Gorczany and Russel";BMW;X3
+249;10-08-2022;543611.25;5319;;Freetown;"Ullrich; Bergstrom and Baumbach";Isuzu;Rodeo
+250;10-05-2022;830794.15;6625;CA;Bakersfield;"Klocko; Gislason and Huels";Dodge;Caravan
+251;13-10-2022;978118.66;3210;;Koga;"Tromp; Nienow and Emmerich";Land Rover;Range Rover
+252;28-10-2022;852220.00;9616;;Chor;Langosh and Sons;Toyota;Tacoma Xtra
+253;18-02-2022;843774.12;9671;;Wādī as Salqā;Kemmer LLC;Renault;Alliance
+254;13-06-2022;387245.14;7652;;Vysehrad;"Lakin; Kuphal and Breitenberg";Kia;Sedona
+255;29-07-2022;283674.11;8637;;Lesichevo;"Douglas; Gutmann and Monahan";Chevrolet;Lumina
+256;18-08-2022;712233.68;5169;;Staroshcherbinovskaya;"Abshire; Anderson and Connelly";Cadillac;DeVille
+257;09-04-2022;121577.90;6771;;Claremorris;"Treutel; Wintheiser and Gutkowski";Cadillac;Escalade EXT
+258;28-07-2022;965984.13;327;;T’et’ri Tsqaro;Powlowski LLC;Dodge;Durango
+259;07-06-2022;739065.46;3468;;Choujiang;Schmeler and Sons;Dodge;Sprinter
+260;23-03-2022;56474.93;2594;;Changyanbao;"Cassin; Roberts and Ebert";Chevrolet;Express 1500
+261;09-12-2022;965839.17;1257;;Novoshakhtinsk;Greenholt-Waelchi;Mazda;Mazda6
+262;21-04-2022;970879.95;5943;;Puunage;Shanahan LLC;Buick;Electra
+263;17-07-2022;323509.30;8414;CA;San Jose;Corwin-Considine;Porsche;968
+264;22-03-2022;141678.10;9795;;Yezhou;"Kris; King and Cummings";Buick;LeSabre
+265;16-12-2022;64981.44;2743;QC;Mont-Saint-Hilaire;"Tromp; Hilpert and Cole";Pontiac;GTO
+266;02-10-2022;96431.73;1553;;Sosnovyy Bor;Fadel-Ritchie;Honda;Accord
+267;10-06-2022;432484.06;4659;;Qiandian;Beier-Schowalter;Infiniti;QX
+268;01-07-2022;163491.91;1131;;Sioguí Arriba;Watsica-Feest;Lexus;HS
+269;15-10-2022;998461.23;7663;;Wengyang;Sawayn Group;Volvo;240
+270;23-11-2022;349278.15;3577;;Ilhéus;Gorczany-Weber;Mercedes-Benz;300SL
+271;30-04-2022;924156.71;7407;;San Pedro de Lloc;Homenick-Hartmann;Honda;CR-X
+272;07-03-2022;139064.18;7897;;Kobylí;"Grimes; Hauck and Franecki";Subaru;XT
+273;08-07-2022;308975.96;6461;;Dongjin;"Zulauf; Jakubowski and Schaefer";Chevrolet;G-Series G30
+274;19-03-2022;810788.81;5272;11;Várzea de Sintra;Feeney-White;Cadillac;Fleetwood
+275;04-05-2022;269583.58;8033;;Shalizhai;Smitham-Larkin;Audi;Q5
+276;09-05-2022;377819.97;4187;;Arari;Bechtelar LLC;Audi;A8
+277;22-03-2022;675748.55;107;MOR;Emiliano Zapata;Marks-Ziemann;Cadillac;Escalade
+278;12-05-2022;428215.15;339;;Daxing;Kuvalis Inc;Mazda;MX-5
+279;09-07-2022;795053.95;2427;;Longmen;Cremin-Nikolaus;Aston Martin;DB9
+280;24-08-2022;737758.21;6280;SN;Leipzig;Cruickshank Group;Volvo;S70
+281;21-12-2022;884556.93;5494;;Bokor;Langworth-Schaefer;Oldsmobile;LSS
+282;27-02-2022;295506.93;4102;;Pasirpanjang;McCullough-O'Hara;Porsche;Panamera
+283;20-07-2022;126058.50;1123;;Kíti;Lindgren-Boyle;Honda;Accord
+284;20-07-2022;79560.43;4018;;Kondrovo;Botsford Group;Saturn;Ion
+285;07-04-2022;280590.17;1985;;Leudelange;"Osinski; Casper and Heidenreich";Audi;Coupe GT
+286;28-09-2022;539519.78;597;;Oyam;Hane and Sons;Mercury;Topaz
+287;07-02-2022;947379.40;4648;;Mzuzu;"Bartoletti; Spinka and Senger";Ford;Focus
+288;24-12-2022;543205.39;849;;Ibarreta;Harvey Group;Kia;Sportage
+289;03-05-2022;500725.22;816;;La Eduvigis;Stracke Inc;Suzuki;Grand Vitara
+290;11-12-2022;484170.65;1693;;Mayumba;"Batz; Corkery and Blick";Jaguar;S-Type
+291;21-03-2022;345239.72;5266;;Xarag;"Skiles; Emard and Nikolaus";Cadillac;Allante
+292;18-10-2022;338180.65;419;;Embalse;O'Reilly LLC;Aston Martin;DB9
+293;15-02-2022;639457.67;8578;;Korfovskiy;"Johnston; Kulas and Leuschke";Dodge;Stealth
+294;03-01-2022;231745.98;1278;;Baima;Lebsack-Lebsack;Jeep;Wrangler
+295;26-01-2022;841076.38;8900;1084;København;Lueilwitz Group;Toyota;Land Cruiser
+296;13-01-2022;151308.87;9074;;Yantianhe;Feil-Cassin;Honda;Fit
+297;15-11-2022;418224.25;227;;Cangchang;"Stroman; Williamson and Hegmann";Land Rover;Freelander
+298;20-03-2022;787701.47;9169;;Tía Juana;Zboncak LLC;Jaguar;XK
+299;27-05-2022;184454.76;8719;;Pinggan;Ratke Inc;Volkswagen;Beetle
+300;20-08-2022;539407.78;3973;;Mārupe;Fadel-Hilll;Chevrolet;Silverado 2500
+301;21-03-2022;436824.54;8061;;Jindui;"Pouros; Kiehn and Flatley";Lexus;LS
+302;03-11-2022;156367.06;9711;;Shymkent;"Glover; Howell and Zieme";Ford;F450
+303;24-01-2022;214522.32;3944;15;Brejoeira;Baumbach LLC;Cadillac;DTS
+304;15-03-2022;263784.57;8840;;Concepción;Ward-Kovacek;Volkswagen;rio
+305;01-02-2022;536592.37;6525;;Sabandia;Ondricka-Schamberger;Toyota;Echo
+306;10-05-2022;133147.09;907;;Gandoang;"Bayer; Crooks and Kunze";Hummer;H3
+307;13-06-2022;46862.61;1491;;Shar’ya;"Gaylord; Morar and Boehm";Hyundai;Santa Fe
+308;03-11-2022;472405.86;4036;;Boconó;Osinski-Cartwright;Acura;RL
+309;01-11-2022;187920.00;4033;;Sigetec;Quigley-Murphy;Maserati;Biturbo
+310;03-09-2022;154688.07;1623;;Jeziora Wielkie;Lesch-Herman;Volkswagen;Fox
+311;18-04-2022;137377.65;1436;;Yuyapichis;Emmerich-Mills;Ford;Freestyle
+312;01-07-2022;417173.67;6937;;Anilao;Kemmer-Pouros;Nissan;240SX
+313;07-07-2022;958069.60;1074;;Datang;Gulgowski LLC;Acura;RL
+314;29-12-2022;631636.16;6010;;Golovchino;Kautzer and Sons;Nissan;Pathfinder
+315;21-10-2022;895782.31;2404;;Flores da Cunha;"Kautzer; Feeney and Kemmer";Nissan;Murano
+316;03-07-2022;525408.26;1947;;Uchkeken;Jaskolski-Aufderhar;Audi;A4
+317;18-03-2022;978238.25;2412;;Keren;"Kunde; Harber and Brekke";Ford;Ranger
+318;03-04-2022;9482.60;9316;AB;Stockholm;Larkin Inc;Lamborghini;Murciélago
+319;05-02-2022;212673.94;9118;;Caja;Donnelly-Douglas;Porsche;Cayenne
+320;31-07-2022;169660.89;6104;;Jalaud;Bartoletti Group;Eagle;Summit
+321;25-08-2022;799303.76;2350;;Mlalo;Sawayn-McClure;Pontiac;G8
+322;29-06-2022;371881.32;3595;;Zhongxian;Shields-Langworth;Chevrolet;Silverado 3500
+323;10-10-2022;748631.99;3206;;Nularan;Welch and Sons;Mercedes-Benz;SLK-Class
+324;15-03-2022;806712.16;9346;;Bắc Kạn;Kulas Inc;Mitsubishi;Outlander
+325;06-07-2022;939874.16;2185;;Shirone;"Blick; Murray and Hodkiewicz";Audi;S8
+326;11-11-2022;867217.70;2811;AB;Claresholm;Padberg and Sons;Land Rover;LR2
+327;07-05-2022;456557.89;6450;;Yashikera;Miller-Collier;Ford;Laser
+328;06-03-2022;585775.98;6667;;Colima;"Huels; Kshlerin and Swift";Mitsubishi;Lancer
+329;23-01-2022;46432.27;1249;;Podkumskiy;Hirthe-Renner;Chevrolet;Corvette
+330;24-06-2022;678355.17;8517;;Sacramento;"Becker; Cremin and Hayes";Smart;Fortwo
+331;17-11-2022;747486.93;9612;13;Duas Igrejas;"Hahn; Jacobi and Leuschke";Dodge;Caliber
+332;25-02-2022;918023.26;6581;;Smołdzino;Mosciski Group;Infiniti;QX56
+333;07-10-2022;177400.99;6647;TX;Austin;"King; Hand and Effertz";Maserati;430
+334;08-05-2022;338409.85;568;;Annaka;Haley-Emmerich;Mercury;Cougar
+335;03-07-2022;127077.55;326;;Kalatongke;"Wunsch; Emmerich and Conn";Mercedes-Benz;CLK-Class
+336;06-12-2022;833333.93;5899;O;Skövde;Lubowitz-Rice;Oldsmobile;Aurora
+337;20-11-2022;168377.49;1820;06;Geldrop;Weber-Gulgowski;Ford;Focus
+338;07-09-2022;690282.59;8783;;Chachoengsao;Runte LLC;Mercury;Tracer
+339;10-11-2022;358275.80;2437;;Huangze;Treutel-Langworth;Hyundai;Santa Fe
+340;22-07-2022;165930.01;947;;Březová nad Svitavou;Schneider-Conn;Lexus;GS
+341;09-06-2022;223109.10;1739;;Wenceslau Braz;"O'Hara; Hammes and Schiller";Maybach;62
+342;01-12-2022;258052.40;3076;;Tonshayevo;"Hansen; Bode and Howe";Dodge;Sprinter
+343;10-02-2022;655481.86;9191;;Oibioin;Schinner LLC;Pontiac;Bonneville
+344;28-06-2022;576411.14;8921;AB;Lethbridge;Daniel Group;Ford;Expedition EL
+345;09-01-2022;521227.79;3516;;Draginje;"Hodkiewicz; Bednar and Schultz";Acura;CL
+346;29-11-2022;798380.85;9420;;Pingtang;"Lynch; Altenwerth and Sipes";Isuzu;i-Series
+347;20-10-2022;951542.75;5949;;Krzeczów;"Wintheiser; Bode and Renner";Ford;Focus
+348;06-01-2022;656993.42;6164;;Nariño;Bernhard LLC;Ford;F450
+349;17-06-2022;669410.03;2645;;Acajutla;Franecki and Sons;Nissan;Altima
+350;14-05-2022;375641.15;5497;;Catarman;Stiedemann LLC;Daewoo;Nubira
+351;31-03-2022;464671.71;8067;;Karsin;"Kulas; Keebler and Lubowitz";Cadillac;DTS
+352;26-01-2022;55072.26;4480;MEX;La Virgen;Feest and Sons;Mercury;Topaz
+353;14-07-2022;150432.16;7867;;Cabaritan East;Hettinger Inc;Volvo;850
+354;15-05-2022;477995.66;9869;72;San Juan;"Medhurst; Bashirian and Macejkovic";GMC;Yukon
+355;13-07-2022;391445.30;8281;;Křižanov;"Heathcote; Yost and Schumm";BMW;7 Series
+356;17-07-2022;360516.99;7363;03;Escola;Kovacek LLC;Plymouth;Neon
+357;15-03-2022;221427.61;1610;;Áno Kalentíni;Schinner-Miller;Oldsmobile;98
+358;31-12-2021;925416.95;6524;;Plasy;Gusikowski-Toy;Volvo;V90
+359;03-12-2022;773930.81;7814;;Maribong;Kuhlman Group;Toyota;Camry
+360;13-05-2022;676135.93;6009;;Sukamaju;"Morar; Lebsack and Kohler";Dodge;Durango
+361;14-06-2022;773984.29;8939;;Tuopu Luke;Flatley-Crona;Suzuki;Vitara
+362;24-12-2022;656626.50;9854;;João Pinheiro;"Kiehn; Willms and McLaughlin";Pontiac;Grand Prix
+363;21-11-2022;983583.31;7440;;Cotia;Kilback-Herman;Chevrolet;APV
+364;25-11-2022;684665.44;96;;Yartsevo;Jacobs Group;Honda;Insight
+365;17-07-2022;772253.11;8643;;Xinxi;Pouros and Sons;Toyota;Celica
+366;30-11-2022;468966.75;4482;;Qifang;"Ledner; Jacobi and Blick";Audi;4000CS Quattro
+367;27-12-2022;501923.61;1988;;Barengkok;Dooley and Sons;Infiniti;QX
+368;14-08-2022;582435.13;7436;13;Campos;Koelpin Inc;Cadillac;Seville
+369;13-07-2022;804723.87;5649;;Katima Mulilo;"Gerhold; Schmeler and Halvorson";MINI;Cooper
+370;08-05-2022;153547.71;3343;;Pasirreungit;Cummerata LLC;Mazda;626
+371;19-02-2022;611241.28;4611;ON;St. Thomas;Von and Sons;Chevrolet;Silverado 2500
+372;04-10-2022;116592.35;9432;;Maromitsa;Weissnat LLC;Audi;A6
+373;25-07-2022;122382.58;297;;Ampanihy;Russel Group;GMC;Savana
+374;17-11-2022;834116.58;1713;;Ngou;Aufderhar-Ferry;Aston Martin;V12 Vantage
+375;25-08-2022;570676.66;6958;;Busilak;"Spinka; Cruickshank and Sauer";Mazda;B-Series
+376;03-06-2022;177882.73;1545;;Qianpai;"Funk; Hodkiewicz and Medhurst";Alfa Romeo;164
+377;24-07-2022;370490.11;2339;;Hatava;"Cruickshank; Cole and Greenfelder";Honda;Accord
+378;22-08-2022;112162.55;529;;Anxiang;"Fadel; Rau and Jones";Dodge;Caravan
+379;05-11-2022;84263.43;6064;;Cilegong;Cole-Reinger;Lexus;GS
+380;04-07-2022;482235.84;1394;K;Sölvesborg;Rice LLC;Ford;Crown Victoria
+381;30-07-2022;130935.92;4802;;Šalovci;"Conn; Turner and Rodriguez";Saab;900
+382;19-08-2022;269931.30;9321;GRO;Lazaro Cardenas;Hirthe Inc;Chevrolet;Corvette
+383;30-04-2022;218823.32;9847;;Shangyang;Zulauf Group;Toyota;Prius
+384;20-02-2022;494626.10;4115;;Maogou;Kessler-Mosciski;Peugeot;207
+385;14-06-2022;278088.63;864;;Mandaue City;"Runolfsdottir; Wehner and Lindgren";Acura;RL
+386;12-01-2022;161976.14;5905;;Junaynat Raslān;"Lebsack; Beer and Bashirian";BMW;Alpina B7
+387;04-03-2022;348142.78;5309;;Nishinoomote;"Smith; Blanda and Waters";GMC;Savana 3500
+388;27-03-2022;147127.37;2147;;Huangnaihai;Kozey Group;Mercedes-Benz;SLK-Class
+389;30-12-2022;3396.69;8655;;Phra Phutthabat;"Hackett; Larson and Sanford";BMW;645
+390;23-05-2022;776240.78;790;;Russeifa;Purdy-Quitzon;Ford;Aerostar
+391;20-08-2022;16444.04;9229;;Alegria;"Considine; Moore and Steuber";Infiniti;M
+392;02-07-2022;492995.50;2819;;Sebewe;"Schmidt; Blick and Conn";Chevrolet;Silverado 3500
+393;21-07-2022;365126.15;8543;;Gouyan;Jakubowski and Sons;Toyota;Tacoma
+394;26-02-2022;836680.06;3969;;Baki;"Stoltenberg; Aufderhar and Ritchie";Ford;Freestar
+395;20-01-2022;573767.28;4207;NSW;Sydney;"Abernathy; Bartoletti and Jacobi";Toyota;Camry Hybrid
+396;05-03-2022;630156.59;126;;Chujiang;"Robel; Lindgren and Sporer";Honda;Element
+397;02-06-2022;549344.19;1815;;Isawa;Funk-Runolfsson;Cadillac;Escalade ESV
+398;24-07-2022;307718.71;1121;;Ngembel;Ziemann LLC;Oldsmobile;LSS
+399;09-02-2022;942292.77;7865;;Árta;Hodkiewicz-Grady;Mercedes-Benz;600SEC
+400;19-05-2022;447453.85;6113;;Koper;"Kilback; Windler and Champlin";Lexus;IS
+401;27-12-2022;894386.98;5219;;Nūrābād;Deckow-Turcotte;Oldsmobile;Silhouette
+402;07-03-2022;120402.15;8391;;Hetai;Hodkiewicz-Satterfield;Pontiac;Bonneville
+403;04-05-2022;1496.62;4182;;Paoua;Adams LLC;Pontiac;Sunbird
+404;17-01-2022;903352.73;8743;;Leifeng;Bednar Inc;Ferrari;F430
+405;10-11-2022;870391.19;9024;;Wuma;"Becker; Stanton and Smith";Volkswagen;Golf III
+406;27-11-2022;373543.78;20;;Paradyż;Brown Inc;Ford;F350
+407;27-01-2022;692780.51;5004;;El Águila;Thiel-McLaughlin;Subaru;Forester
+408;08-11-2022;326050.72;1726;;Vorontsovka;Crooks and Sons;Mitsubishi;Eclipse
+409;09-07-2022;573838.00;7982;AB;Stockholm;Davis and Sons;Ford;Ranger
+410;12-09-2022;819715.92;8921;;Zhoujiang;Bartell-Spencer;Dodge;Aries
+411;05-03-2022;135965.91;7394;;Rudong;"O'Conner; Hickle and Jaskolski";Dodge;Viper
+412;27-06-2022;385762.81;1291;;Guanyinsi;Pacocha LLC;Ford;Freestar
+413;07-12-2022;568685.30;677;;Arapongas;"Spinka; Cole and Erdman";Toyota;Venza
+414;09-07-2022;458120.71;9840;;Zhenziliang;"Mosciski; Predovic and Nolan";Jaguar;XF
+415;24-06-2022;920203.95;8600;;Thị Trấn Trùng Khánh;"DuBuque; Muller and Pagac";Volvo;S40
+416;13-09-2022;578706.62;3719;04;Vila Flor;Jacobi Inc;Nissan;Frontier
+417;13-08-2022;726236.56;9054;;Gīdolē;Bogan LLC;Chevrolet;Express
+418;01-12-2022;150682.61;7074;PRK;Ipoh;Kunze LLC;Dodge;Grand Caravan
+419;09-11-2022;821929.55;3400;;Capitán Bermúdez;Macejkovic Group;Ford;Focus
+420;29-05-2022;647557.61;2664;;Lokossa;McGlynn LLC;Porsche;Carrera GT
+421;05-09-2022;549321.61;498;;Nikel’;Douglas Group;Volvo;C70
+422;14-10-2022;848322.17;9169;;Almaznyy;"Nikolaus; Mitchell and Cormier";Ford;Mustang
+423;30-12-2022;659222.87;4866;;Khong Chai;Sporer-Donnelly;Mitsubishi;Precis
+424;30-01-2022;730062.45;768;;Huanghuai;Homenick-Zieme;Volvo;S80
+425;07-08-2022;568077.30;4166;;Potrero Grande;Lynch-Hoeger;Porsche;911
+426;05-11-2022;905.66;4396;13;Reguenga;Mills-Raynor;Lincoln;Blackwood
+427;15-02-2022;268909.75;6032;;Berdyans’k;"Hegmann; Heller and Buckridge";Dodge;Dakota Club
+428;16-01-2022;519217.27;4684;18;Ourozinho;Wunsch-Beahan;Audi;TT
+429;07-07-2022;121875.69;8415;;Huyunxiang;Weissnat Group;Toyota;Matrix
+430;25-10-2022;865207.82;5904;;Boston;Gutmann LLC;Chrysler;300
+431;17-06-2022;99780.29;1767;;Hương Sơn;"Funk; Swift and Runolfsdottir";Scion;xB
+432;29-01-2022;423498.34;3519;;Tabuny;O'Keefe-Macejkovic;Ford;Ranger
+433;17-04-2022;596760.31;6451;;Engenheiro Beltrão;Johns-Flatley;Mercury;Cougar
+434;27-04-2022;980881.81;1585;;Dūrā al Qar‘;"Christiansen; Flatley and Miller";Acura;NSX
+435;04-07-2022;598751.41;7681;A8;Paris 14;Orn-Padberg;GMC;Vandura 3500
+436;19-06-2022;586777.74;1188;;Gueset;Schoen and Sons;Volkswagen;Passat
+437;12-11-2022;141358.95;50;;Haixing;Beahan Group;Nissan;Xterra
+438;02-06-2022;417703.76;7498;;Zhongxi;"Reilly; Langosh and Kihn";Ford;Econoline E350
+439;27-07-2022;629907.74;408;;Nevel’sk;Stamm-Weimann;Ford;Edge
+440;25-09-2022;353795.55;3668;;Tuanchengshan;"Greenholt; Kunze and Haley";Dodge;Ram Van B250
+441;25-08-2022;182714.49;5063;;Huangwei;"Sawayn; Emard and Larson";BMW;Z3
+442;16-06-2022;970976.71;3133;;Nzega;Mraz and Sons;Ford;Escape
+443;16-07-2022;913482.22;4947;ON;Carleton Place;McGlynn-Oberbrunner;Acura;TSX
+444;19-06-2022;725296.75;53;;Räpina;Kshlerin LLC;Porsche;Panamera
+445;16-02-2022;303470.03;1894;;Krông Kmar;Gaylord-Weber;Eagle;Vision
+446;01-04-2022;735974.20;694;;Pedaringan;Fay LLC;Chevrolet;Corvette
+447;30-08-2022;253486.79;528;;Shuangxiqiao;"Yundt; Homenick and Hand";Alfa Romeo;164
+448;16-07-2022;549801.94;7548;;Ojos de Agua;Lubowitz-Ledner;Chevrolet;Suburban 2500
+449;16-03-2022;95976.52;4489;;Nyangao;Heidenreich Group;Mazda;MX-5
+450;18-04-2022;734567.78;2333;1084;København;"Ruecker; Hudson and Welch";Nissan;Frontier
+451;13-08-2022;133292.45;351;;Przemków;Predovic-Bahringer;Honda;S2000
+452;07-01-2022;274436.60;9228;;Garhi Yāsīn;Shanahan Inc;Toyota;Avalon
+453;17-10-2022;61769.65;5501;COA;Loma Bonita;"Spinka; Graham and Luettgen";Mercedes-Benz;G-Class
+454;23-08-2022;146862.34;1879;;Nova Petrópolis;Lowe LLC;Dodge;Ram 2500
+455;27-03-2022;775515.88;3459;A8;Évry;Schoen Inc;Nissan;Pathfinder
+456;05-01-2022;575385.42;4977;;Tianzhou;"Daugherty; Bins and Wiegand";Chevrolet;Venture
+457;17-10-2022;485362.61;5678;;Hexi;Franecki Group;Lamborghini;Reventón
+458;16-05-2022;671175.63;3350;;Postmasburg;"Hauck; Abshire and Langosh";Subaru;Leone
+459;29-05-2022;234407.81;2699;;San Ignacio de Tupile;Marks-Fisher;BMW;M3
+460;05-10-2022;399467.07;7454;;Bārah;"Koch; White and Nader";Chevrolet;S10
+461;11-10-2022;863003.74;9631;;Medenine;"Kris; Block and Gottlieb";Cadillac;Escalade
+462;28-09-2022;91241.08;9617;;Mełgiew;"Cronin; Emmerich and O'Keefe";Mercedes-Benz;C-Class
+463;05-09-2022;242013.67;183;OH;Hamilton;"Conroy; Anderson and Reichel";Dodge;D350 Club
+464;20-10-2022;948470.48;4310;;Bayān;"Flatley; Murray and Steuber";Mercedes-Benz;400E
+465;30-10-2022;518714.45;5347;;Pueblo Nuevo;Lubowitz and Sons;Mitsubishi;RVR
+466;10-08-2022;69270.76;9622;;Liutao;"Simonis; Kuhlman and Price";Volkswagen;Cabriolet
+467;17-01-2022;294729.08;9169;;Campo de la Cruz;"Gerhold; Shanahan and Swaniawski";Chevrolet;Prizm
+468;13-08-2022;37964.99;7486;BD;Luleå;Keeling LLC;Chrysler;Town & Country
+469;16-01-2022;2984.03;4545;;Yixin;Corkery-Pfeffer;Mazda;Miata MX-5
+470;12-09-2022;499784.14;4998;;Maştağa;Morissette-Johnston;Chevrolet;Silverado
+471;25-06-2022;770997.86;8448;;Dakoro;"Johnson; Gerhold and Emard";Acura;RDX
+472;27-09-2022;867027.10;5491;;Wenchi;"Sauer; Hahn and Kuhic";Mitsubishi;Pajero
+473;30-08-2022;288801.90;4729;;Gēdo;Homenick Inc;Lexus;GS
+474;03-11-2022;39417.70;7678;;Morrison;Kuvalis-Witting;Land Rover;Discovery Series II
+475;07-11-2022;317558.56;4435;01;Moss;"Becker; Lowe and Beatty";Land Rover;Range Rover
+476;09-08-2022;463342.59;1219;;Pyhäselkä;"Hoppe; Turner and Hyatt";Buick;Century
+477;19-11-2022;245040.66;3544;;Sekondi-Takoradi;"Heaney; Borer and Conn";Subaru;SVX
+478;16-08-2022;779056.18;5234;13;Calçada;Stoltenberg-Bauch;GMC;Savana 1500
+479;19-05-2022;439961.23;704;SK;Moose Jaw;"Hilpert; Farrell and Hirthe";Buick;Special
+480;20-04-2022;980264.92;1453;;Bělá pod Bezdězem;"Wunsch; Brown and Casper";GMC;Envoy XL
+481;15-02-2022;119382.56;3776;;Cardona;Flatley Group;Nissan;Altima
+482;12-01-2022;77648.90;662;;San Ignacio;Berge and Sons;Subaru;Tribeca
+483;02-05-2022;317347.59;7349;;Badu;Leuschke-Mitchell;Rolls-Royce;Phantom
+484;12-01-2022;287138.83;9385;;Qimeng;"Strosin; Muller and Koss";Oldsmobile;Toronado
+485;07-06-2022;891640.08;5400;;Kwangju;"Roberts; Connelly and Ullrich";Toyota;Avalon
+486;29-07-2022;803512.84;9879;;Kranggan;Kling-Kuhic;Jeep;Patriot
+487;24-11-2022;506537.66;3776;;Mengdong;"Cronin; Funk and Keeling";Honda;CR-V
+488;22-01-2022;193193.95;2284;;Badarganj;Towne and Sons;Volvo;S60
+489;02-05-2022;480607.77;3477;;Futian;Walker-MacGyver;Ford;Taurus
+490;26-09-2022;789391.06;8827;;Siguinon;Morissette and Sons;Dodge;Ram 2500
+491;10-11-2022;671596.08;6168;05;Venlo;"Robel; Schiller and Lockman";Spyker;C8 Laviolette
+492;28-11-2022;568009.49;56;;Peddie;"Kertzmann; O'Hara and Gleason";Toyota;Venza
+493;26-03-2022;300838.77;8840;;Taiyang;Stamm-Abbott;GMC;Savana 1500
+494;21-01-2022;394483.36;5322;;Kiraman;"Kutch; Walker and Welch";Honda;Odyssey
+495;18-09-2022;945048.98;8515;;Bungabon;Christiansen-Kirlin;Volkswagen;rio
+496;08-11-2022;794194.96;7015;;Beisijia;Conn-Bashirian;Pontiac;Grand Am
+497;22-06-2022;104370.18;1537;13;Ponte Nova;Auer Inc;GMC;Yukon
+498;16-07-2022;418933.30;7388;;Migues;Crona LLC;Nissan;240SX
+499;14-01-2022;632028.22;5103;;Višnjićevo;Windler-Koepp;Mercury;Capri
+500;01-05-2022;14792.73;3454;;Mirsk;Frami-Leffler;Chevrolet;Express 3500
+501;18-10-2022;461290.89;1508;;Tertek;Kuphal-Beatty;Isuzu;Ascender
+502;02-04-2022;581250.76;8746;;Yuscarán;Kilback-Stanton;Pontiac;Sunbird
+503;18-06-2022;817027.05;8791;16;Trondheim;"Cormier; Nitzsche and Abbott";GMC;2500 Club Coupe
+504;11-08-2022;122005.89;286;03;Oslo;Kshlerin LLC;Dodge;Ram 1500
+505;29-01-2022;861363.91;8852;;Níkaia;"Bartoletti; Schowalter and Wisoky";GMC;Vandura 3500
+506;31-03-2022;455076.13;6821;;Voronezh;"Beer; Herman and Spencer";GMC;Savana 2500
+507;12-10-2022;837458.55;6609;;Nieborów;Runte-Blanda;Subaru;Legacy
+508;07-10-2022;921457.49;906;;Yahil’nytsya;Bergstrom-Dickinson;Mercedes-Benz;S-Class
+509;19-05-2022;385786.27;3033;;Kangani;Leffler-Cummings;Kia;Spectra
+510;10-10-2022;998534.69;9922;;Dongdu;Hudson-McCullough;Toyota;4Runner
+511;04-12-2022;666123.99;4837;;Danauparis;"Dicki; Haley and Kshlerin";Chevrolet;Tahoe
+512;27-07-2022;915289.30;1913;;Chiriguaná;Rau-Bosco;BMW;600
+513;20-09-2022;768037.03;8357;;Indramayu;Stokes-Kovacek;Ford;Contour
+514;20-12-2022;208676.28;1593;;Vygonichi;"Runolfsdottir; VonRueden and Shanahan";Ford;Mustang
+515;05-02-2022;415170.12;3381;;Arsenal;O'Hara LLC;Chevrolet;Silverado 1500
+516;07-01-2022;420018.49;2965;;Paranaíba;Bergnaum Inc;Ford;Econoline E150
+517;13-05-2022;108937.06;3876;;Dandai;"Farrell; Ziemann and Haley";Ford;Taurus
+518;14-10-2022;636359.46;1613;;Kambar;Padberg Group;GMC;Sierra 1500
+519;03-03-2022;3394.82;7561;;Vacoas;Gulgowski-Balistreri;Dodge;Grand Caravan
+520;07-06-2022;10617.05;9724;;Esuk Oron;Ward-Bartell;Dodge;Neon
+521;18-06-2022;211584.67;2892;;Zaleszany;Sanford LLC;Lexus;GS
+522;13-07-2022;662530.82;3552;18;Outeiro;Lakin Inc;Lincoln;Town Car
+523;24-01-2022;458658.69;2813;;Bledzew;Hermiston LLC;Oldsmobile;Bravada
+524;16-10-2022;171768.88;4513;;Bergville;Upton and Sons;Lincoln;Mark VIII
+525;16-09-2022;236445.69;447;;Kálymnos;Johnson-Klocko;Mitsubishi;Outlander Sport
+526;22-06-2022;295171.10;558;;Ma’ao;Schultz-Hilpert;Porsche;Boxster
+527;15-08-2022;581872.87;2250;;Tunjë;Homenick Inc;GMC;Yukon
+528;06-04-2022;395374.84;5651;;Liang;Roob-Willms;Mitsubishi;Montero Sport
+529;12-11-2022;791380.82;6349;11;Dafundo;"Nitzsche; Fay and Cummerata";Saturn;L-Series
+530;05-03-2022;1551.48;9685;;Cube;Schowalter-Ebert;Saab;900
+531;02-02-2022;275793.71;2821;05;Roermond;Balistreri and Sons;Toyota;4Runner
+532;23-02-2022;366466.06;7873;;Akademgorodok;"Farrell; Durgan and Trantow";Chevrolet;Tahoe
+533;30-08-2022;709460.41;7466;;Mompós;"Wisozk; Murray and Hirthe";Mazda;MX-6
+534;27-12-2022;899639.50;5381;;Jabranti;"Kilback; Quigley and Macejkovic";BMW;1 Series
+535;04-06-2022;741620.98;4650;GRO;Ejidal;Walsh Group;Pontiac;Grand Am
+536;01-12-2022;924644.12;7226;;Weifen;"Waters; Ondricka and Bednar";Dodge;Ram 3500
+537;24-11-2022;647431.00;5466;;Libu;Kuvalis Group;Volvo;S70
+538;07-06-2022;541755.56;3846;GUA;San Miguel;Nienow and Sons;Ford;Econoline E150
+539;15-09-2022;626429.20;7019;;Sebasang;"Connelly; Bruen and Anderson";Toyota;Tundra
+540;09-10-2022;478781.15;6868;;Gaide;Bosco-Ryan;Chevrolet;Silverado
+541;30-06-2022;949549.77;5829;;Al Ḩarāk;"Waelchi; Robel and Pagac";Chevrolet;Citation
+542;08-09-2022;29819.72;1124;;Comitancillo;"Ledner; Hermiston and Bartell";Chevrolet;Sportvan G30
+543;24-09-2022;727495.02;3266;;Bukavu;Feil Group;Oldsmobile;Cutlass Supreme
+544;03-05-2022;218690.20;6448;;Qingban;Dare and Sons;Mitsubishi;Outlander
+545;29-10-2022;259792.79;9138;;Molo;Collins and Sons;Mitsubishi;Eclipse
+546;07-12-2022;847340.65;8375;;Sumberbening;Bailey Inc;Fiat;Nuova 500
+547;06-04-2022;537500.48;7280;;Panjiang;"Batz; Jerde and Jaskolski";Mitsubishi;Pajero
+548;06-10-2022;434048.89;9257;;Kvasiny;Renner-Lindgren;Dodge;Grand Caravan
+549;26-04-2022;120909.95;3125;;Zelenodolsk;Emard Group;Toyota;FJ Cruiser
+550;07-07-2022;438901.75;1442;;Sagua de Tánamo;Oberbrunner-McClure;Mazda;RX-7
+551;02-11-2022;853897.64;5727;;Sørvágur;Breitenberg-Towne;Isuzu;Hombre
+552;15-07-2022;635602.03;8999;;Velikovechnoye;"Thompson; Skiles and O'Kon";Maybach;57
+553;20-06-2022;592207.91;235;;Nysa;"Pollich; Monahan and Willms";Oldsmobile;88
+554;07-04-2022;994432.05;1557;;Ouani;"Jacobs; Yundt and Mitchell";Nissan;Versa
+555;17-03-2022;270920.73;6379;;Pajak;Watsica-Bartell;Audi;A3
+556;02-02-2022;156941.91;999;;Al Jīzah;Lockman Inc;BMW;5 Series
+557;30-01-2022;311971.39;6521;;Padilla;"Pouros; Kassulke and McClure";BMW;650
+558;26-10-2022;398114.31;9241;;Sindangraja;"Bayer; Klein and Cremin";Mazda;CX-7
+559;13-04-2022;873499.23;17;VA;Reston;Deckow-McDermott;Nissan;Xterra
+560;09-03-2022;429854.95;9895;15;Zwolle;"Langworth; Nikolaus and Botsford";Buick;Rendezvous
+561;30-06-2022;659559.68;7063;;Sison;Upton LLC;Mercedes-Benz;C-Class
+562;29-11-2022;176782.15;6686;;Grajaú;Dicki-Kautzer;Dodge;Ram 2500
+563;03-12-2022;733212.15;4724;;Langensari;Wiza and Sons;Kia;Rio
+564;14-01-2022;734239.79;5375;;Longzhou;Douglas-Ondricka;Chevrolet;Express 1500
+565;07-08-2022;939660.46;7499;;Zadawa;Towne Inc;Chevrolet;Avalanche
+566;04-07-2022;441228.48;9994;;Nueva Italia;Dickinson-Jast;Toyota;Land Cruiser
+567;05-08-2022;833043.78;9815;;Zubrzyca Dolna;Rempel-Hodkiewicz;MINI;Cooper
+568;25-05-2022;529257.04;6226;;Smínthi;Carter Inc;Mazda;929
+569;03-09-2022;312285.81;6655;;Dankunku;Reichel-Gerhold;Infiniti;Q
+570;17-01-2022;870584.79;9682;;Kebunkelapa;Ortiz-Metz;Subaru;Forester
+571;21-09-2022;73548.57;9307;;Jiangbu;"Pouros; Kemmer and Medhurst";Chevrolet;Impala
+572;11-06-2022;396825.21;2813;;Gubuk Daya;"O'Connell; Smith and Balistreri";Lincoln;MKX
+573;02-10-2022;922315.59;5706;CA;San Diego;"Reilly; Morissette and Aufderhar";Pontiac;Grand Prix
+574;02-03-2022;284320.27;9509;;Chaoyang;Borer-Bauch;Cadillac;XLR
+575;02-03-2022;298860.97;9928;;Mairiporã;Hamill-Bayer;Ford;Expedition EL
+576;27-09-2022;419428.38;7630;;Tugela Ferry;"Moore; Hahn and Wunsch";Chevrolet;Corvette
+577;10-06-2022;757651.39;6255;12;Bergen;"Schimmel; Lockman and Moore";Lexus;GX
+578;11-02-2022;322969.92;4507;;Javalera;Aufderhar-Hilpert;Dodge;D350 Club
+579;19-10-2022;369356.39;7784;;Shiqiao;Quitzon-Romaguera;GMC;Sonoma Club Coupe
+580;12-05-2022;305239.47;1673;;Phra Nakhon Si Ayutthaya;Hansen LLC;Chevrolet;Camaro
+581;15-03-2022;364343.81;9287;;Mingjing;Johns Group;Ford;Ranger
+582;27-10-2022;623836.58;4110;;Nansan;Christiansen-Rath;Geo;Metro
+583;16-02-2022;351117.46;6655;;Kaleybar;Gaylord-Lueilwitz;Porsche;Cayman
+584;23-12-2022;432043.54;7754;;Rumenka;Lowe-Boehm;Ford;Escape
+585;12-11-2022;338886.31;6352;LM;Milano;Jast Inc;Nissan;350Z
+586;24-11-2022;57952.82;6635;U;Västerås;Considine-Welch;Acura;SLX
+587;10-04-2022;938822.07;9478;;Balete;Cormier-Watsica;Oldsmobile;Bravada
+588;07-10-2022;190296.01;8315;;Sanhe;Flatley-Reichert;Toyota;Prius
+589;28-08-2022;463443.18;8306;;Kurmanayevka;Volkman LLC;Chevrolet;Camaro
+590;12-02-2022;303848.74;1635;;Rakitnoye;King LLC;Mitsubishi;Chariot
+591;13-07-2022;593330.01;1342;;Qaşr al Farāfirah;Hand LLC;Chevrolet;G-Series G20
+592;18-07-2022;258639.61;502;;Ţayyibat al Imām;Ondricka-Upton;Spyker;C8 Spyder Wide Body
+593;03-11-2022;93642.81;1878;;Leskolovo;"Mills; Davis and Glover";GMC;Yukon XL 1500
+594;28-04-2022;873422.91;8559;;Invercargill;Turner Inc;Ford;Freestyle
+595;24-03-2022;58778.85;3206;;Osek nad Bečvou;Williamson-O'Connell;Mercedes-Benz;C-Class
+596;31-10-2022;728235.79;8528;;Rodionovo-Nesvetayskaya;Farrell-Hackett;Ford;Expedition
+597;20-06-2022;854414.47;4075;;Jubao;Boehm-Gaylord;Buick;Skylark
+598;04-02-2022;276339.68;4166;;Balakhta;"Mills; Thiel and Dicki";Honda;Insight
+599;05-01-2022;731759.78;4124;;Yaguarón;"Torphy; Cruickshank and O'Kon";Volkswagen;Eurovan
+600;09-05-2022;796137.53;5193;F;Jönköping;Padberg Inc;Chevrolet;Beretta
+601;26-05-2022;695671.09;4865;;Xinchenglu;Wolf-Barton;Porsche;944
+602;23-12-2022;608420.40;5085;;Bočar;Ernser Inc;Audi;A8
+603;03-09-2022;644241.87;4878;;San Pedro de Atacama;Dickens-Barrows;Volkswagen;Type 2
+604;19-08-2022;954525.60;5993;;Xiabeisi;Nitzsche-Strosin;Mitsubishi;GTO
+605;08-07-2022;838855.43;5652;;Grigiškės;"Huel; Lockman and Sanford";Dodge;Dakota Club
+606;07-07-2022;301043.11;6317;;Urshel’skiy;Vandervort-Berge;GMC;3500
+607;15-10-2022;234450.63;100;;Xinxu;Buckridge-Stoltenberg;Kia;Optima
+608;16-07-2022;581538.64;6893;;Měcholupy;"Feest; Kertzmann and Runte";Pontiac;Grand Am
+609;04-04-2022;852734.94;8253;;Yamrat;"Huels; Bernier and Lindgren";Lincoln;MKS
+610;10-03-2022;642911.29;8046;;San José;Bashirian-Simonis;Mercury;Mariner
+611;29-08-2022;837588.02;3634;;Oenunu;Langosh-Schamberger;Lexus;IS-F
+612;22-01-2022;570032.29;5030;;Ash Shuqayrah;Goyette Inc;Toyota;Avalon
+613;04-01-2022;989992.72;4160;;Shizuoka-shi;Jakubowski LLC;Audi;S6
+614;11-01-2022;526428.51;6410;AB;Vårby;"Torp; Lind and Waelchi";Chevrolet;Prizm
+615;22-07-2022;926963.99;4239;;Haymā’;Johnston-Schaden;Audi;S6
+616;14-01-2022;225092.90;6185;;Pasanggrahan;"Weimann; Labadie and Stracke";Kia;Amanti
+617;03-08-2022;854116.20;4150;PUE;El Calvario;"Heller; Bernhard and Ward";Dodge;Ram 2500
+618;10-02-2022;852726.16;632;;Amuru;"Prosacco; Pacocha and Leannon";Hyundai;Sonata
+619;04-11-2022;891471.81;1160;;Lanci Satu;Rice Group;Kia;Soul
+620;14-06-2022;411084.61;8274;;Stanišić;"Graham; Robel and McClure";Chevrolet;Avalanche
+621;22-05-2022;860981.69;756;;Maño;Nienow-Kozey;Volvo;S80
+622;27-05-2022;772706.45;2359;;Qila Abdullāh;Hermiston-Hauck;Dodge;Intrepid
+623;02-05-2022;832349.18;8428;;Mbomba;Homenick-Jenkins;Nissan;Xterra
+624;25-03-2022;960200.58;6346;;Langádhia;Murphy-Pfannerstill;Toyota;Matrix
+625;22-06-2022;442833.60;8605;;La Sebala du Mornag;Kuvalis LLC;Toyota;Avalon
+626;21-11-2022;775238.58;2167;;Kragujevac;Schroeder and Sons;Buick;Rainier
+627;16-09-2022;492219.38;9585;;Żywiec;Kirlin-Bradtke;Mercedes-Benz;SLK-Class
+628;21-12-2022;148272.33;7220;;Youlan;Braun-Bahringer;Nissan;Altima
+629;21-05-2022;921001.16;3763;;Kotor;Jacobson LLC;Ford;E150
+630;24-02-2022;195425.35;2166;TX;El Paso;Casper-Konopelski;Mercedes-Benz;600SEL
+631;02-03-2022;196734.72;255;;Shanling;"Considine; Watsica and Fritsch";Chrysler;Sebring
+632;03-09-2022;867210.45;3825;14;Meia Via;Witting-Haley;Toyota;Tacoma
+633;07-12-2022;320231.09;8092;;Ivot;Gislason-Kuhn;Chevrolet;Blazer
+634;13-04-2022;293328.75;3650;14;Aldeia de Além;Williamson-Feest;Toyota;Tacoma
+635;26-02-2022;852145.39;468;;Sanghan;Mohr-Hahn;Ford;E250
+636;25-07-2022;232106.69;3133;;Lgota Wielka;Gleichner LLC;Mercedes-Benz;E-Class
+637;07-11-2022;242909.44;1092;;Qal‘eh-ye Khvājeh;Funk-Hirthe;Toyota;Prius
+638;10-06-2022;991506.27;8539;A4;Sedan;Bartoletti-Abernathy;Hyundai;Santa Fe
+639;08-12-2022;658177.78;7191;;Yongchuan;"Murray; Zieme and Kemmer";Cadillac;DTS
+640;01-01-2022;704308.30;9753;;Chinchaypujio;Fritsch-Jones;Ford;Ranger
+641;31-05-2022;993631.64;2286;07;Alcáçovas;Luettgen-Kozey;Chevrolet;Silverado 3500
+642;14-01-2022;808779.50;3356;;Tunjuk Selatan;"Muller; Ward and Gleason";Eagle;Summit
+643;06-07-2022;747390.39;4688;;Quinocay;Macejkovic LLC;Oldsmobile;Cutlass Supreme
+644;18-10-2022;203001.18;8528;;Tobilolong;"Bauch; Shanahan and Anderson";GMC;Jimmy
+645;17-09-2022;631692.26;8540;;Avarua;Renner-Bahringer;Subaru;Tribeca
+646;19-03-2022;568493.12;8155;02;Mértola;Lowe Group;Honda;Ridgeline
+647;12-05-2022;612487.08;2941;B8;Nice;Abshire-Stokes;Saab;9-3
+648;06-03-2022;465388.45;1124;;Isiro;"Rath; Von and Borer";Land Rover;LR4
+649;12-11-2022;125995.80;6066;;Agriá;Bradtke-Dare;Lexus;IS
+650;04-05-2022;69988.97;2658;;Indaial;Ortiz Inc;Suzuki;Aerio
+651;06-08-2022;784655.17;8106;X;Gävle;Huels-Hartmann;Volkswagen;Cabriolet
+652;15-02-2022;15743.00;6279;;Buluangan;"Christiansen; Dietrich and Sauer";Eagle;Vision
+653;28-03-2022;421093.89;8177;;Golubinci;Dickens-Streich;Lotus;Elan
+654;13-02-2022;909384.83;3993;;Simunul;Aufderhar-Trantow;Buick;Skyhawk
+655;23-05-2022;545801.25;9209;;Dulangan;Nikolaus Inc;Subaru;SVX
+656;17-07-2022;224650.45;7289;;San Pedro Zacapa;"Yost; Braun and Wyman";Nissan;300ZX
+657;26-12-2022;865359.19;8677;;Kalate;Kuhlman-Kshlerin;Pontiac;G5
+658;25-07-2022;980155.24;9526;14;Malpique;"King; Kozey and Bogisich";Ford;Explorer Sport Trac
+659;26-08-2022;179379.11;279;;Tamamura;"Emard; Kovacek and Hills";Daewoo;Leganza
+660;12-09-2022;21678.49;5441;;Motrico;Graham and Sons;Ford;Festiva
+661;12-05-2022;124773.27;8364;;Ricardo Palma;"Schultz; Koelpin and Mann";Ford;Taurus X
+662;29-05-2022;225751.95;6439;;Elena;"Spinka; VonRueden and Hessel";Infiniti;QX
+663;01-08-2022;550993.85;5084;;Drogomyśl;Orn Inc;Audi;Cabriolet
+664;25-06-2022;643594.69;4094;;Cigadung;Gorczany LLC;Ford;Escape
+665;30-12-2022;680309.79;8051;;Pithoro;Schumm-Sporer;Ford;Ranger
+666;24-01-2022;937579.61;6457;;Budy;Murazik and Sons;Ford;Transit Connect
+667;05-11-2022;316574.99;6911;;Wenquan;"Batz; Cremin and McGlynn";Volkswagen;New Beetle
+668;30-10-2022;929490.97;553;;Xingshou;Kuhlman LLC;Panoz;Esperante
+669;25-04-2022;245385.76;2496;;Caçapava;Friesen and Sons;Honda;Pilot
+670;13-10-2022;61494.48;4738;05;Pedrogão;Strosin LLC;Infiniti;FX
+671;07-05-2022;147319.42;9074;;Guohua;"Roob; Johnston and Stokes";Ford;Flex
+672;23-04-2022;640500.28;2298;;Hobaramachi;"Lebsack; Corkery and Konopelski";Suzuki;XL-7
+673;13-08-2022;29154.01;5964;;Port Maria;Rutherford-Thompson;Hyundai;Tiburon
+674;21-09-2022;446452.83;3881;;Mulanje;"Hodkiewicz; Ruecker and Doyle";Audi;S6
+675;15-09-2022;334033.67;2007;CT;Stamford;"Bosco; Conn and Dickens";Toyota;Highlander
+676;20-03-2022;836283.00;9014;;Myanaung;MacGyver-Nicolas;Mitsubishi;Outlander
+677;22-12-2022;556906.99;6789;;Gornji Breg;Torphy-Powlowski;Jeep;Compass
+678;02-07-2022;837567.30;4492;;Bindura;"Upton; Mueller and Kemmer";Volkswagen;Eurovan
+679;01-05-2022;97132.31;4122;;Marabahan;Beahan Inc;Mitsubishi;Lancer
+680;19-02-2022;979908.88;3366;;Fenhe;VonRueden-Ruecker;BMW;X5 M
+681;11-03-2022;77724.97;267;09;Utrecht (stad);"Rolfson; Bayer and Powlowski";Mazda;MPV
+682;02-06-2022;771513.41;8245;;Mozdok;Goyette Inc;Subaru;Tribeca
+683;29-03-2022;568183.40;8854;;Miaoyu;Parisian Inc;Toyota;Prius v
+684;01-01-2022;170087.78;4718;;Tianyuan;O'Conner-Stoltenberg;Chevrolet;Tracker
+685;18-02-2022;582852.66;746;;Lampa;"Lindgren; Lemke and Skiles";Ford;F-350 Super Duty
+686;24-08-2022;608527.38;6237;;Valle de Ángeles;"Cummings; Sauer and Halvorson";Mitsubishi;Diamante
+687;01-04-2022;818988.80;181;;Cisantri;Wiegand-Gutmann;Mitsubishi;GTO
+688;02-03-2022;709446.46;2364;;Pacora;Streich LLC;Rolls-Royce;Phantom
+689;15-04-2022;850547.79;4387;;Ungsang;"Cormier; McLaughlin and Kub";Jaguar;XK Series
+690;13-11-2022;826853.74;397;;Owerri;Bogan-Erdman;Ford;E-Series
+691;22-08-2022;179514.25;7899;;Srbica;Welch Group;Lincoln;MKT
+692;01-11-2022;381175.40;4781;;Machinda;"Ankunding; Schimmel and O'Hara";Ford;Crown Victoria
+693;22-01-2022;910174.24;1476;A1;Dijon;Doyle-Halvorson;Chevrolet;Monte Carlo
+694;15-07-2022;244720.47;3048;;Caleta Olivia;"Barrows; Lubowitz and Robel";Suzuki;SJ
+695;22-10-2022;599737.54;8889;;Hövsan;"Herzog; Gottlieb and Harvey";Ford;Thunderbird
+696;01-07-2022;36881.10;3534;;Bulacnin;Stehr-Kshlerin;Chrysler;PT Cruiser
+697;03-01-2022;905171.81;8661;;Liangchahe;Dibbert-Pouros;Hyundai;HED-5
+698;06-10-2022;333367.25;1539;;Shifang;Cormier Inc;GMC;Savana 3500
+699;29-07-2022;961344.48;5297;;Gwangtan;Gleichner-Adams;Ford;Galaxie
+700;06-12-2022;790259.11;5504;;Yonghe;Hand and Sons;Chevrolet;Corvette
+701;07-10-2022;159062.72;6887;;Puerres;Wintheiser-Kassulke;GMC;Sonoma
+702;05-04-2022;548706.52;771;;Rancabungur;Morissette LLC;Aptera;Typ-1
+703;04-11-2022;966893.64;8897;;San Pedro de Atacama;"Ryan; Kertzmann and Blanda";Toyota;Yaris
+704;20-09-2022;374888.43;1230;;Longgang;Batz and Sons;Dodge;Colt
+705;06-01-2022;801762.16;4987;E;Linköping;"Lindgren; Wolf and Bruen";Kia;Optima
+706;01-10-2022;205678.53;6892;;Lühua;Orn Inc;Audi;TT
+707;13-01-2022;153121.64;2944;;Mandráki;Rempel-Buckridge;Nissan;Titan
+708;25-12-2022;519206.73;8273;;Kolirerek;"Heller; Trantow and Hayes";Kia;Spectra
+709;11-10-2022;16809.88;9466;;Staromyshastovskaya;"Runolfsson; Nikolaus and Thiel";Eagle;Talon
+710;11-02-2022;277449.52;5646;;Cabog;Bergnaum-Hirthe;Land Rover;Range Rover Classic
+711;08-01-2022;287670.26;6360;;Nagrak;"Moen; Dibbert and Ankunding";Hyundai;Genesis
+712;17-12-2022;316434.39;934;;Gyangqai;Raynor LLC;GMC;2500
+713;01-07-2022;53983.27;9800;;Thívai;"Hills; Abernathy and Will";Nissan;Sentra
+714;07-10-2022;364909.82;8398;;Heshan;Mitchell-Larson;GMC;Sonoma
+715;06-12-2022;975163.98;2340;;Changgang;"Waelchi; Skiles and Senger";Chevrolet;Silverado 1500
+716;25-10-2022;340018.47;3281;;Phayakkhaphum Phisai;"Shields; Frami and Cremin";Chevrolet;3500
+717;28-05-2022;683803.44;9225;;Walichnowy;Reynolds Group;BMW;M3
+718;19-05-2022;16598.84;8487;A8;Paris 19;"Bogisich; Wunsch and Schulist";Honda;Civic
+719;09-11-2022;972781.02;9170;;Charikar;"Lang; Murazik and Baumbach";Audi;80/90
+720;08-07-2022;872499.92;4724;;Budziszewice;Kessler Group;BMW;M5
+721;19-12-2022;270710.98;454;06;Colmeal;"Boyle; Corkery and Douglas";Dodge;Caravan
+722;03-11-2022;749439.73;8728;;Corumbá;"Donnelly; Lemke and Bailey";Buick;LeSabre
+723;02-05-2022;86538.75;7092;;Huangjinbu;"Leuschke; Schumm and Will";Jaguar;XJ Series
+724;30-07-2022;130375.61;8507;;Mukun;"Heaney; Bradtke and Wolf";Ferrari;599 GTB Fiorano
+725;04-09-2022;653196.21;8422;;Xin’an;"Barton; Roob and Greenfelder";Pontiac;LeMans
+726;19-07-2022;123391.65;4634;;Zheshan;Johnson Inc;Lincoln;Mark VII
+727;30-01-2022;61886.53;8594;A9;Nîmes;Koss-Lang;Nissan;Quest
+728;02-07-2022;656474.98;5922;;Molagavita;McDermott Inc;Chrysler;PT Cruiser
+729;22-02-2022;577748.84;8200;;Tagana-an;Turcotte and Sons;Audi;A6
+730;17-11-2022;285312.81;475;;Santa Cruz do Sul;Larson-Feil;Saturn;L-Series
+731;11-07-2022;603369.14;142;;Cantoria;"Smitham; Torp and Mitchell";Nissan;Murano
+732;11-01-2022;299080.67;1021;F;Jönköping;Keebler and Sons;Lincoln;Continental Mark VII
+733;27-12-2022;847705.43;7113;;Guinsadan;Wiegand-Mills;Mercedes-Benz;C-Class
+734;15-12-2022;525825.58;4075;;Chaltyr;O'Reilly and Sons;Chevrolet;2500
+735;02-02-2022;58393.99;5042;;Chengjiao Chengguanzhen;Reilly-Schumm;Audi;riolet
+736;25-08-2022;416636.79;3130;;Telukpakedai;"Rogahn; Stanton and Metz";Mitsubishi;Chariot
+737;20-10-2022;699437.56;6407;;An Lão;Wolf-Hagenes;Toyota;Land Cruiser
+738;11-04-2022;759324.71;9427;;Rujewa;Pfeffer-Willms;Kia;Spectra
+739;08-12-2022;599483.59;9498;;San Isidro;"Stark; Berge and Brown";Mercedes-Benz;300TE
+740;22-09-2022;530862.17;8331;;Shidu;Swaniawski-Bergstrom;Ferrari;599 GTB Fiorano
+741;26-12-2022;142790.82;7789;;Iwŏn-ŭp;"McClure; Kerluke and Jast";Lamborghini;Reventón
+742;26-02-2022;462347.26;452;;Kari;West-Hills;Chrysler;PT Cruiser
+743;07-02-2022;722195.56;7703;;Abovyan;Parker-Ritchie;Mitsubishi;Precis
+744;06-02-2022;436125.68;6665;;A’ershan;Mante-Goyette;Chevrolet;Corvair
+745;28-06-2022;722278.18;6206;;Itupeva;"Daugherty; Hand and Christiansen";Dodge;Viper
+746;31-07-2022;393571.41;379;03;Boucinha;Wehner Group;Dodge;Viper
+747;04-06-2022;759577.76;3247;;Mengyin;Jacobs LLC;Mercedes-Benz;C-Class
+748;27-11-2022;443231.67;3146;1084;København;Thiel-Gerlach;Oldsmobile;Alero
+749;01-05-2022;608657.00;1983;AB;Järna;Barton-Ritchie;Mercury;Tracer
+750;01-04-2022;667444.20;1040;;Rantaupanjang;Jacobi-Rippin;Infiniti;Q
+751;04-07-2022;404073.68;8227;;Sonder;Friesen-Reynolds;BMW;X5
+752;23-02-2022;568743.11;2011;;Cihurip Satu;"Zieme; Breitenberg and O'Hara";Nissan;350Z
+753;21-06-2022;137765.57;1555;;Kazinka;Heathcote Inc;Land Rover;Range Rover
+754;03-02-2022;102740.27;2030;;Cabay;Durgan Group;Buick;Rainier
+755;06-01-2022;61112.53;2675;F;Jönköping;Schaefer and Sons;Mercury;Sable
+756;19-11-2022;395839.72;8998;;Pandean;Price-Heathcote;Mercedes-Benz;Sprinter 2500
+757;15-04-2022;380034.44;8041;;Hiratsuka;Kuphal and Sons;Mazda;CX-9
+758;17-06-2022;737006.23;7059;;Pangantocan;Smitham Group;Mercedes-Benz;300TE
+759;07-08-2022;254598.21;2976;;Zevgolateió;"Streich; Jenkins and Lemke";Jaguar;XJ
+760;17-11-2022;647912.15;3160;;Néa Péramos;Ferry Group;Nissan;300ZX
+761;16-05-2022;767463.80;1630;;Yangong;Heidenreich-Wehner;Subaru;Forester
+762;23-10-2022;526264.12;9368;;Markaz al Marīr;Pfannerstill-Walker;Volkswagen;Passat
+763;08-03-2022;400095.19;771;;Brochów;"Upton; Mueller and Collier";Mercury;Cougar
+764;09-08-2022;937550.20;8969;MI;Detroit;Borer-Orn;Buick;Estate
+765;06-01-2022;47924.27;2565;;Fengshan;"Turcotte; Stracke and Cummings";Mazda;RX-8
+766;03-05-2022;838669.91;4196;;Manacsac;Fahey-Mertz;Chevrolet;Malibu
+767;28-10-2022;69879.81;4392;;Lixiqiao;Smith and Sons;Lotus;Exige
+768;10-01-2022;944324.95;3813;;Gedaliang;Marks-Braun;Dodge;Ram 3500 Club
+769;02-02-2022;897359.88;1926;;Tongjing;"Cummings; Cassin and Satterfield";Porsche;968
+770;28-05-2022;877837.60;9762;OK;Oklahoma City;Windler Group;Chevrolet;G-Series G30
+771;07-08-2022;735117.77;2688;;Novomichurinsk;Dibbert-Rohan;Toyota;RAV4
+772;11-12-2022;800999.51;3904;;Surkh Bilandī;Kertzmann LLC;Jeep;Grand Cherokee
+773;10-03-2022;379831.88;2905;;Maythalūn;Mills-Rath;Lexus;LS
+774;01-05-2022;643149.53;6689;;Butahai;"Goldner; Baumbach and Crona";Chevrolet;Beretta
+775;05-06-2022;392647.07;283;;Olkusz;Hilll LLC;Chevrolet;Tahoe
+776;02-01-2022;481549.35;4870;;Gunjur;Flatley-Gutkowski;Pontiac;Bonneville
+777;21-01-2022;927391.28;2788;;Xindong;Batz and Sons;Subaru;Brat
+778;28-01-2022;675018.79;6668;;Cilolohan;"Harber; Upton and Howell";Ford;Econoline E250
+779;23-10-2022;497829.37;2184;;Mobaye;McCullough LLC;Pontiac;Grand Am
+780;23-03-2022;530059.16;794;01;Fajões;Stiedemann-Windler;Ford;Mustang
+781;31-08-2022;593461.51;1086;06;Tocha;Purdy Inc;Ford;GT500
+782;29-10-2022;371733.43;9822;;Calapan;Glover and Sons;Mazda;Tribute
+783;07-12-2022;98236.44;5863;;Disina;"Flatley; Goodwin and Green";Mercury;Lynx
+784;17-04-2022;430626.94;4325;;Su’ao;"Lakin; Koelpin and Prohaska";Hyundai;Veracruz
+785;10-12-2022;306413.26;4227;07;Pavia;VonRueden-Cummings;Ford;Econoline E150
+786;04-03-2022;142725.18;2431;11;Carvoeira;Mayer-Simonis;Oldsmobile;88
+787;07-06-2022;716791.01;3965;;Ami;"Hills; Crona and Barton";GMC;Yukon XL 1500
+788;03-07-2022;145734.18;1652;;Tomilino;Armstrong Inc;Buick;Century
+789;16-06-2022;153574.80;4421;;Victoria;Towne LLC;Infiniti;QX56
+790;14-07-2022;527115.61;8607;;Garoua Boulaï;Jones Inc;GMC;Rally Wagon 2500
+791;22-04-2022;751365.36;6578;;Ptghunk’;Durgan-Jones;Hyundai;Sonata
+792;22-02-2022;435300.45;6414;;Tocopilla;Reichel Group;Nissan;Murano
+793;26-01-2022;39820.63;2251;D;Strängnäs;Kuhlman-Yundt;Honda;Accord
+794;27-09-2022;900576.29;3372;WI;Milwaukee;"Hoppe; Cronin and Yost";Ram;1500
+795;17-01-2022;903027.01;2880;;Bazzāryah;Witting and Sons;Ford;Fiesta
+796;27-06-2022;633616.39;3768;;Boleszkowice;Flatley Inc;Maybach;57
+797;26-07-2022;403185.70;5823;;Yantan;Heaney-McClure;Ford;Bronco
+798;01-03-2022;763014.40;7187;;Huohua;Abernathy Group;Toyota;Matrix
+799;09-03-2022;150539.63;914;AB;Stockholm;Hyatt and Sons;Nissan;Leaf
+800;15-10-2022;3506.91;3542;;Xinzhou;"Kassulke; Lesch and Kohler";Jeep;Wrangler
+801;02-02-2022;421278.44;1717;;Glasnevin;"Leuschke; Hahn and Bashirian";Buick;Regal
+802;05-01-2022;477168.51;61;;Koffiefontein;"Stamm; Huels and Kuhic";Buick;Regal
+803;09-04-2022;431574.25;7895;;Melfi;Hand Inc;Acura;RDX
+804;04-01-2022;878051.17;4164;;Prengtale;Hermann-Shanahan;Lexus;IS
+805;11-11-2022;356046.85;1428;;Dunhou;Heathcote-Langworth;Ford;E-Series
+806;10-04-2022;209069.35;8558;;Ntobo;"Jast; Champlin and Bednar";Mercedes-Benz;600SEL
+807;28-11-2022;887991.22;7390;;Jijiga;"Crist; Macejkovic and Simonis";Hyundai;Elantra
+808;19-01-2022;134842.96;5546;B9;Grenoble;Reinger-Hartmann;Buick;Skylark
+809;10-03-2022;26717.75;4116;;Malabang;Wintheiser-Jast;Lexus;IS
+810;03-05-2022;363470.26;1180;;Shengli;"Stark; Homenick and Zboncak";Chrysler;New Yorker
+811;25-08-2022;316932.80;7500;;Nantang;Carter Inc;Ford;F250
+812;12-08-2022;46482.40;5483;;Nunutba;Bartoletti Inc;Pontiac;Bonneville
+813;23-06-2022;30378.69;5624;;Talisay;"Bode; Hegmann and Johns";Chevrolet;Impala SS
+814;01-07-2022;248679.00;2453;;Zduńska Wola;Quigley and Sons;Volkswagen;Golf
+815;15-04-2022;500242.14;1069;03;São Paio Merelim;Goyette Group;Lotus;Esprit
+816;07-07-2022;7613.05;8206;;Jiaodai;Kshlerin Group;Lincoln;Blackwood
+817;14-02-2022;763210.23;4378;;Guacarí;"Denesik; Swift and Hills";Hyundai;Sonata
+818;12-12-2022;30258.36;6061;;Ar Ru’ays;Jakubowski-Keebler;Pontiac;Firefly
+819;14-04-2022;274415.36;148;;Corquín;Gleichner-Wisozk;Chevrolet;Blazer
+820;29-01-2022;299181.62;1834;;Zhuanshui;Roob LLC;Dodge;Caravan
+821;22-07-2022;345402.42;4670;;Sharkawshchyna;"Hauck; Leffler and Herman";Pontiac;Grand Prix
+822;27-05-2022;859810.30;6026;;Louis Trichardt;"Howe; Watsica and Frami";Scion;tC
+823;17-11-2022;238075.22;3559;;Lakinsk;"Ferry; Considine and Morar";Ford;Expedition EL
+824;12-11-2022;197213.35;8456;;Datong;"Gulgowski; Morissette and Cruickshank";Nissan;Frontier
+825;01-02-2022;848833.31;6085;;Bambor;"Davis; Grady and Morar";Audi;A8
+826;06-03-2022;497087.61;5942;;Ban Ratsada;"Frami; Ward and Blanda";Oldsmobile;Aurora
+827;09-05-2022;235846.56;4258;01;Anadia;Graham-Hane;Ford;Tempo
+828;06-09-2022;983795.25;9219;MT;Billings;"Kemmer; Abbott and Greenholt";Chevrolet;Corvette
+829;05-01-2022;657977.92;9000;;Woto;Altenwerth LLC;Ferrari;FF
+830;18-07-2022;181551.73;2399;;Las Tejerías;Wintheiser-Lindgren;Volkswagen;R32
+831;03-05-2022;521953.81;4019;;Atengmelang;Corkery-Jenkins;Toyota;Avalon
+832;24-04-2022;764640.44;4625;;Bechyně;Strosin Inc;Isuzu;Rodeo
+833;31-12-2021;912363.61;3883;;Fairview;Douglas-Robel;Mazda;B-Series Plus
+834;11-05-2022;115179.94;3828;;Zbąszyń;Zieme-Turner;Ford;F-Series Super Duty
+835;25-11-2022;536985.20;1518;;Krzęcin;"Heathcote; Weimann and Weber";Hillman;Minx Magnificent
+836;26-12-2022;16404.65;1905;;Wailang;"Bayer; Davis and Roob";Buick;Riviera
+837;26-06-2022;406839.19;6466;TX;Midland;Bartoletti-Moore;Honda;Accord
+838;22-03-2022;524835.51;2590;;‘Awaj;Flatley-Tillman;Acura;Vigor
+839;30-08-2022;683981.16;3365;07;Sandefjord;Parisian-Wisozk;Lotus;Elan
+840;21-07-2022;254571.98;994;;Salinungan Proper;Beahan-Rolfson;Ford;Thunderbird
+841;18-12-2022;791399.69;5697;;Bulu;Steuber and Sons;Volkswagen;Eurovan
+842;10-06-2022;340000.63;3721;;Bawshar;"Botsford; Hessel and Gulgowski";Chevrolet;Suburban 1500
+843;13-09-2022;417598.21;3771;;Tvarožná;Hilll and Sons;Eagle;Talon
+844;12-10-2022;408390.96;5028;11;Alenquer;"West; Mraz and Koelpin";Bentley;Continental GTC
+845;14-03-2022;222751.49;3074;;Łętownia;Brown-Stokes;Acura;RSX
+846;03-04-2022;744750.40;2789;;Burgaltay;Mante Group;Buick;Riviera
+847;12-11-2022;290387.84;9636;O;Trollhättan;"Dickinson; Olson and Carter";Toyota;Land Cruiser
+848;23-12-2022;148243.35;7208;;Qiaozhuang;"Marvin; Gibson and Rempel";Oldsmobile;LSS
+849;31-12-2021;692589.60;9985;;Vrangel’;Rath Inc;Mercedes-Benz;CLS-Class
+850;03-05-2022;516754.12;5266;13;Rio;"Anderson; Upton and Okuneva";Nissan;Altima
+851;07-05-2022;742118.51;3572;;Dahe;Berge-Bauch;Maybach;57
+852;05-09-2022;134586.77;5157;;‘Afrīn;"Ruecker; Stokes and Monahan";Dodge;Dakota
+853;10-05-2022;599178.38;3158;;Karvia;"Becker; O'Conner and Tillman";Mercury;Mariner
+854;22-09-2022;402328.78;9465;A8;Eaubonne;Schaefer Inc;Kia;Rio
+855;25-03-2022;172967.15;3641;;Pelileo;Marvin and Sons;Chevrolet;TrailBlazer
+856;18-12-2022;520220.76;8052;;Kawaguchi;Lesch-Larson;Ford;Taurus
+857;07-03-2022;358564.05;7301;;Ailibugai;Renner LLC;Volvo;S40
+858;26-07-2022;528537.03;8773;;Najin;Kiehn LLC;Pontiac;Montana
+859;13-10-2022;81746.58;8015;;Verkhniy Mamon;"Considine; Gutmann and Smitham";Lincoln;Mark LT
+860;18-03-2022;326546.59;5769;;Tečovice;Fay-Bergnaum;Buick;Regal
+861;19-09-2022;402393.26;6251;NSW;Northern Suburbs Mc;Pollich-Ankunding;Mazda;929
+862;17-01-2022;301513.46;160;;Richards Bay;Beahan LLC;BMW;Z4 M
+863;17-12-2022;171252.47;4349;;Stepanovićevo;"Huels; Herman and Stokes";Acura;MDX
+864;11-02-2022;347716.99;4459;;Igurusi;"Johnston; Blick and Cole";Toyota;Tacoma Xtra
+865;31-08-2022;811891.62;5259;;Kerċem;"Rohan; Kuhlman and Torphy";Pontiac;G6
+866;23-12-2022;658861.88;6563;;Žatec;Luettgen LLC;Pontiac;Bonneville
+867;23-05-2022;572527.21;3022;;El Paraíso;Ortiz-Crona;Mitsubishi;Diamante
+868;14-06-2022;322845.56;9555;;Rumat Heib;"Cruickshank; Fahey and Kohler";Chevrolet;Beretta
+869;07-07-2022;415493.41;1460;;Tiniguiban;"O'Connell; Quitzon and Roberts";Ford;E250
+870;08-02-2022;935539.80;3910;;Repnoye;Walsh Group;Toyota;Solara
+871;28-03-2022;62750.89;5633;;Korsakovo;Hamill-Littel;Mercedes-Benz;S-Class
+872;09-09-2022;549252.63;8441;;Amizmiz;Harris-Brekke;Lincoln;Navigator
+873;11-06-2022;812921.72;5281;;Zarechnyy;Mohr-Rippin;Plymouth;Neon
+874;01-05-2022;222416.55;5237;;Inriville;"Miller; Kunze and Mertz";Ford;F450
+875;22-12-2022;683214.91;710;;São João del Rei;"Beatty; Dibbert and Hansen";Chevrolet;HHR Panel
+876;02-12-2022;164438.60;5157;VER;Lindavista;"Pfannerstill; Howe and Rohan";Mazda;Protege5
+877;14-01-2022;273181.48;2067;;Dampit;Pouros Inc;Dodge;Aries
+878;15-08-2022;257779.86;5122;;Wang Thonglang;Parisian-Schamberger;Mazda;B-Series
+879;04-11-2022;244658.05;3550;;Phú Vang;Spencer-Moore;Mazda;Tribute
+880;29-08-2022;330568.59;2851;;Batangan;Bode-Weber;Chevrolet;Impala
+881;25-01-2022;420281.57;9142;;Maca;Bashirian-Boehm;Buick;Riviera
+882;21-12-2022;154640.87;8089;;Maragogipe;Hermiston and Sons;GMC;Canyon
+883;05-03-2022;256191.24;7383;TN;Knoxville;Mitchell LLC;Pontiac;LeMans
+884;03-11-2022;372768.15;1569;97;Marmande;"Denesik; Hodkiewicz and Walsh";GMC;2500
+885;21-06-2022;530904.56;4218;;Iniö;"Skiles; Weber and Zemlak";Subaru;Alcyone SVX
+886;12-03-2022;597331.54;9317;;Yelenendorf;Schowalter-Jones;Kia;Optima
+887;19-04-2022;796024.85;9076;;Baoxing;"Osinski; McClure and Goodwin";Ram;1500
+888;16-05-2022;885650.50;1560;;Lingyuan;Turner-Keeling;Acura;RDX
+889;30-05-2022;495584.60;3690;;Reisdorf;Hahn-Monahan;Mazda;B-Series
+890;31-03-2022;775750.44;519;;Hino;"Gottlieb; Ritchie and DuBuque";Volkswagen;Passat
+891;01-06-2022;3364.37;9211;03;São Pedro;"Toy; Grimes and Huel";Buick;Park Avenue
+892;26-11-2022;505533.09;7689;X;Gävle;Lubowitz Group;Chevrolet;Colorado
+893;03-03-2022;808794.18;5961;;Taunggyi;Treutel and Sons;Kia;Rio
+894;06-06-2022;995001.57;4003;;Wotan;Casper-MacGyver;Chrysler;Sebring
+895;12-03-2022;667482.20;4859;CA;San Jose;Bins-Kuhlman;Suzuki;Vitara
+896;10-05-2022;706729.43;5803;;Tecpán Guatemala;Ziemann LLC;Mitsubishi;Pajero
+897;17-03-2022;437237.82;6275;;Jingjiao;Hoeger-Ryan;Ford;F150
+898;01-12-2022;442908.91;4486;A2;Saint-Brieuc;"Schimmel; Heller and Leffler";Volvo;V70
+899;30-09-2022;659868.52;2113;;Clorinda;Nienow Inc;Chevrolet;Lumina
+900;22-08-2022;705845.67;6106;;Adamstown;Kovacek Inc;Ford;Festiva
+901;05-07-2022;796019.89;2344;;Bonao;Little and Sons;Pontiac;Montana SV6
+902;13-08-2022;439371.18;4138;;Kalidawir;Ziemann-Waelchi;GMC;Yukon XL 1500
+903;16-10-2022;228170.05;599;A3;Saint-Pierre-des-Corps;Goldner LLC;BMW;7 Series
+904;14-04-2022;244294.80;4651;;Oussivo;Kihn Inc;GMC;Rally Wagon 2500
+905;19-11-2022;924824.07;4681;;Numazu;"Miller; Jaskolski and Gulgowski";Ford;F-Series
+906;29-03-2022;28048.29;6617;;Calamba;Rolfson LLC;Pontiac;Tempest
+907;20-04-2022;380940.37;3708;;Divjakë;Dibbert and Sons;Chrysler;Sebring
+908;21-08-2022;56531.46;6633;;Zhuangbu;VonRueden-Heathcote;Subaru;Justy
+909;11-10-2022;885454.67;3013;;Banjar Paangkelod;Lowe-Bins;Subaru;Legacy
+910;09-10-2022;548627.13;9849;;Shakhtars’k;Olson-Jacobson;Alfa Romeo;Spider
+911;08-06-2022;330026.13;2780;;Mwembe;"Waters; Veum and Predovic";GMC;Yukon
+912;04-02-2022;601207.09;1898;13;Sardoal;"Berge; Heaney and Runolfsson";GMC;3500 Club Coupe
+913;02-05-2022;563696.58;8390;;Ashikaga;"Satterfield; Lehner and Hammes";Ford;Mustang
+914;15-08-2022;336513.30;2035;;Anjirserapat;Terry-Considine;Mitsubishi;Montero Sport
+915;25-12-2022;140821.45;3435;B9;Bourg-en-Bresse;Rutherford-Stracke;Mitsubishi;Starion
+916;05-12-2022;737326.00;7723;;Tajur;Stokes-Leffler;Chrysler;Town & Country
+917;21-12-2022;194807.54;4891;;Bidbid;Labadie-Bartoletti;Honda;Accord
+918;24-06-2022;905798.25;3739;;Bazar-Korgon;"Cartwright; Miller and Bernier";Volvo;C70
+919;09-06-2022;499374.39;2691;;Stutterheim;"Grimes; Veum and Mills";Mitsubishi;Galant
+920;24-12-2022;914765.89;182;;Franca;Pagac Inc;Nissan;Quest
+921;03-04-2022;796640.77;777;;Lincheng;O'Hara-Smitham;Aston Martin;DB9 Volante
+922;28-07-2022;705802.17;3101;;Danxi;Pagac-Halvorson;Suzuki;Verona
+923;13-12-2022;371689.43;7118;;Binitayan;Legros and Sons;Maserati;Spyder
+924;27-05-2022;233057.77;6082;04;Kongsvinger;Pfeffer Inc;Mazda;MX-5
+925;16-08-2022;411878.86;4559;;Pervomays’k;Kautzer Inc;Chevrolet;Cobalt
+926;19-01-2022;327277.05;9359;A8;Étampes;Mohr-Kirlin;Chrysler;Pacifica
+927;28-09-2022;739851.57;1007;;Kankara;VonRueden Inc;Maybach;57
+928;30-04-2022;293021.58;3728;COL;Altavista;Wyman Inc;GMC;Yukon
+929;21-08-2022;996053.90;7400;;Pluak Daeng;"Huel; Mayert and Goyette";Dodge;Dakota
+930;16-06-2022;94768.86;3607;;Qinjia;Dickens-Erdman;Mercedes-Benz;M-Class
+931;05-12-2022;471140.15;3636;;El Mida;Mitchell-Heller;Mercury;Grand Marquis
+932;13-05-2022;793965.19;3182;;Kamirenjaku;Funk-Russel;Chrysler;300
+933;07-04-2022;45339.83;4499;;Lidzbark;Wunsch Group;Mazda;929
+934;10-12-2022;315577.75;2539;;Biankouma;"Gerhold; Bauch and Lemke";Mercury;Sable
+935;03-02-2022;759967.10;5282;11;Marteleira;Murray-Larson;Mazda;MX-6
+936;09-09-2022;721503.33;8529;;Ögöömör;"Cartwright; Emmerich and Ondricka";Mitsubishi;Eclipse
+937;22-10-2022;545104.36;3414;01;Moss;Oberbrunner-Bergnaum;Nissan;Altima
+938;09-11-2022;517479.91;1382;;Pengwan;Weissnat Group;Cadillac;Escalade ESV
+939;29-07-2022;868610.40;1390;;Tuateta;Greenfelder-Towne;GMC;Rally Wagon 3500
+940;01-11-2022;495614.83;8590;;Motong;"Rohan; Tillman and Stroman";MINI;Clubman
+941;23-06-2022;190915.07;2418;;Klampis;Bauch Inc;Chrysler;Concorde
+942;13-08-2022;402071.81;5924;AB;Åkersberga;"Smith; Homenick and Franecki";Toyota;Prius
+943;18-10-2022;713056.21;3172;;Armavir;Halvorson-Heller;Ford;F350
+944;18-08-2022;743442.40;5329;;Rencun;Bartoletti-Spinka;Volvo;V70
+945;23-10-2022;172711.51;9863;;Los Dos Caminos;Bruen-Pacocha;Subaru;Forester
+946;04-09-2022;949753.44;6588;;San Benito;Grady-Howe;Lexus;ES
+947;20-10-2022;468420.24;8151;;Usicayos;"Ledner; Bergnaum and Ondricka";Chevrolet;Corvette
+948;05-02-2022;735394.25;6455;;Qilin;Brown-Olson;Volkswagen;Golf
+949;07-05-2022;802701.58;5763;;Shuntian;Auer LLC;Nissan;Frontier
+950;14-06-2022;899333.67;8306;;Santa María del Real;Grimes-Collins;Ford;F150
+951;26-07-2022;29322.39;5888;;Yacuíba;Ryan-Wyman;Chevrolet;Monza
+952;04-07-2022;680313.72;229;;Biliran;Kunze and Sons;Hyundai;Genesis
+953;23-07-2022;191365.70;1227;;Liminka;Ratke-Kuphal;Hyundai;Azera
+954;03-05-2022;933971.19;4863;;Xibu;"O'Hara; Raynor and Kirlin";Ford;Explorer
+955;03-06-2022;821535.22;5754;;Burla;Bergstrom-Kemmer;Suzuki;Grand Vitara
+956;12-01-2022;344818.52;2360;;Turt;"Leannon; Pollich and Kerluke";Mazda;Miata MX-5
+957;19-06-2022;200992.19;5247;IA;Iowa City;"Kiehn; Ledner and Macejkovic";Lexus;ES
+958;17-10-2022;5171.33;1602;;Ban Chang;Blick-Powlowski;Chevrolet;Silverado 2500
+959;02-07-2022;22140.37;3303;;Jastrebarsko;"Muller; Reinger and Schoen";Cadillac;XLR-V
+960;05-11-2022;339736.69;3217;A2;Rennes;Kihn-Kuphal;Buick;Century
+961;16-05-2022;873749.98;7206;;Huangtan;"Crona; Schroeder and Parker";Mazda;MX-6
+962;02-07-2022;706506.69;7915;16;Bouças;Collins-Schneider;GMC;Rally Wagon 3500
+963;02-05-2022;604777.82;943;07;Zaandam;Windler LLC;Subaru;Impreza
+964;02-07-2022;5679.44;4325;;Lubāna;"Greenfelder; Paucek and Rowe";Subaru;Impreza
+965;17-09-2022;394020.51;5866;;Banyutengah;Simonis and Sons;Saab;9000
+966;24-06-2022;520868.94;1014;;Srbica;Hayes-Mann;Nissan;Quest
+967;13-09-2022;878515.21;3839;;Luniao;Price and Sons;Volkswagen;GTI
+968;29-04-2022;746501.09;6565;;Rudy;"Mitchell; Hettinger and Parisian";Isuzu;Rodeo Sport
+969;31-12-2021;906294.97;747;B7;Châtellerault;"Christiansen; Blanda and Reinger";Hyundai;Sonata
+970;18-07-2022;663917.49;3932;;Kisangani;Bogan Inc;Lexus;GS
+971;26-02-2022;898017.26;6648;;Qintang;Schroeder-Von;GMC;2500 Club Coupe
+972;19-04-2022;166728.39;356;;La Playosa;Bergnaum-Metz;Ford;Econoline E350
+973;02-09-2022;234704.85;5537;;Karabudakhkent;Hegmann-Bode;Jeep;Liberty
+974;11-01-2022;334962.89;5194;06;Fiais da Beira;Schuster Inc;Pontiac;Sunbird
+975;14-07-2022;586602.47;8705;16;Castelo;Gutmann Inc;GMC;Envoy XL
+976;29-06-2022;860393.78;3034;03;Oslo;Fadel-Zboncak;Mercury;Tracer
+977;11-08-2022;502774.76;9142;13;Vila Chã;Luettgen-Jerde;Audi;A6
+978;24-04-2022;231074.42;612;;Lianovérgi;Abernathy Inc;Volvo;XC70
+979;07-10-2022;184127.20;7167;;Río de Oro;"Cremin; Kohler and Crooks";Oldsmobile;88
+980;29-04-2022;212350.08;277;;Mat-i;Barrows Inc;Nissan;Frontier
+981;23-10-2022;175175.64;4872;BC;Fruitvale;"Feil; Bayer and Prohaska";Chevrolet;Tracker
+982;04-03-2022;917388.81;7104;PA;Erie;McCullough-Reilly;Audi;A8
+983;20-06-2022;900567.48;4237;;Kinel’-Cherkassy;Weber LLC;Chevrolet;Malibu
+984;24-11-2022;596370.56;7532;;Jianping;Kub-Murray;Chevrolet;Express
+985;09-11-2022;764649.65;8935;COA;Francisco I Madero;Harris-Ritchie;Volkswagen;Type 2
+986;26-02-2022;171796.05;8273;;Bāndarban;Weber-Torphy;Toyota;FJ Cruiser
+987;16-08-2022;863830.11;5118;;Houzhai;Labadie LLC;Nissan;Murano
+988;27-06-2022;767322.93;1654;TC;Firenze;"Littel; Koss and Carroll";Pontiac;Torrent
+989;23-10-2022;387012.28;4677;;Paghmān;Olson-Leuschke;Kia;Soul
+990;15-10-2022;533432.08;3203;03;Requião;Gislason-Marquardt;BMW;5 Series
+991;21-01-2022;571148.87;3902;;Cimaung Kidul;Weimann Group;Volvo;XC70
+992;01-12-2022;381609.92;2377;;Acandí;"Beier; Crooks and Tillman";Ford;Courier
+993;22-07-2022;110792.12;936;;Zhuping;Douglas Group;GMC;Rally Wagon 2500
+994;26-05-2022;897838.57;1346;;Shambu;"Jakubowski; Satterfield and Nikolaus";Buick;Lucerne
+995;29-08-2022;139093.07;4617;;Baojia;Bruen LLC;Chevrolet;Caprice Classic
+996;07-08-2022;899829.72;6696;;Kiryandongo;"Grady; Labadie and Pollich";Pontiac;6000
+997;25-03-2022;672944.06;3540;;Baga Borihe;Casper-Wolf;Nissan;Titan
+998;01-04-2022;425433.91;5760;;Kangdong-ŭp;Vandervort Group;Chevrolet;Silverado 1500
+999;28-02-2022;507909.73;4389;;Kongwan;"Lubowitz; Howell and Weissnat";Mercedes-Benz;SL-Class
+1000;02-03-2022;339340.20;4903;;Sukhobezvodnoye;"Schaden; Bernhard and Lubowitz";Toyota;Celica

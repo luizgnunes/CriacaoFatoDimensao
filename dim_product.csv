@@ -1,0 +1,528 @@
+brand;model;count;id_product
+Acura;CL;2;0
+Acura;MDX;1;1
+Acura;NSX;1;2
+Acura;RDX;3;3
+Acura;RL;5;4
+Acura;RSX;1;5
+Acura;SLX;1;6
+Acura;TSX;1;7
+Acura;Vigor;1;8
+Alfa Romeo;164;2;9
+Alfa Romeo;Spider;1;10
+Aptera;Typ-1;1;11
+Aston Martin;DB9;2;12
+Aston Martin;DB9 Volante;1;13
+Aston Martin;DBS;1;14
+Aston Martin;V12 Vantage;1;15
+Aston Martin;Vantage;1;16
+Audi;4000CS Quattro;1;17
+Audi;4000s Quattro;1;18
+Audi;80/90;1;19
+Audi;A3;1;20
+Audi;A4;1;21
+Audi;A6;4;22
+Audi;A8;4;23
+Audi;Cabriolet;1;24
+Audi;Coupe GT;1;25
+Audi;Q5;1;26
+Audi;S6;3;27
+Audi;S8;1;28
+Audi;TT;3;29
+Audi;riolet;1;30
+BMW;1 Series;1;31
+BMW;5 Series;4;32
+BMW;600;1;33
+BMW;645;1;34
+BMW;650;1;35
+BMW;7 Series;3;36
+BMW;750;1;37
+BMW;Alpina B7;1;38
+BMW;M3;4;39
+BMW;M5;1;40
+BMW;X3;1;41
+BMW;X5;1;42
+BMW;X5 M;1;43
+BMW;Z3;1;44
+BMW;Z4 M;1;45
+Bentley;Continental;1;46
+Bentley;Continental Flying Spur;1;47
+Bentley;Continental GTC;1;48
+Buick;Century;8;49
+Buick;Coachbuilder;1;50
+Buick;Electra;2;51
+Buick;Estate;1;52
+Buick;LeSabre;2;53
+Buick;Lucerne;1;54
+Buick;Park Avenue;2;55
+Buick;Rainier;2;56
+Buick;Regal;3;57
+Buick;Rendezvous;1;58
+Buick;Riviera;3;59
+Buick;Skyhawk;2;60
+Buick;Skylark;3;61
+Buick;Special;1;62
+Cadillac;Allante;1;63
+Cadillac;Catera;1;64
+Cadillac;DTS;3;65
+Cadillac;DeVille;2;66
+Cadillac;Escalade;3;67
+Cadillac;Escalade ESV;2;68
+Cadillac;Escalade EXT;1;69
+Cadillac;Fleetwood;1;70
+Cadillac;STS;3;71
+Cadillac;Seville;2;72
+Cadillac;XLR;1;73
+Cadillac;XLR-V;2;74
+Chevrolet;2500;1;75
+Chevrolet;3500;1;76
+Chevrolet;APV;2;77
+Chevrolet;Avalanche;2;78
+Chevrolet;Beretta;3;79
+Chevrolet;Blazer;4;80
+Chevrolet;Camaro;3;81
+Chevrolet;Caprice Classic;1;82
+Chevrolet;Citation;1;83
+Chevrolet;Cobalt;2;84
+Chevrolet;Colorado;1;85
+Chevrolet;Corsica;1;86
+Chevrolet;Corvair;1;87
+Chevrolet;Corvette;9;88
+Chevrolet;Express;2;89
+Chevrolet;Express 1500;2;90
+Chevrolet;Express 2500;2;91
+Chevrolet;Express 3500;1;92
+Chevrolet;G-Series G20;1;93
+Chevrolet;G-Series G30;2;94
+Chevrolet;HHR Panel;1;95
+Chevrolet;Impala;2;96
+Chevrolet;Impala SS;1;97
+Chevrolet;K5 Blazer;2;98
+Chevrolet;Lumina;3;99
+Chevrolet;Lumina APV;1;100
+Chevrolet;Malibu;2;101
+Chevrolet;Monte Carlo;1;102
+Chevrolet;Monza;1;103
+Chevrolet;Prizm;2;104
+Chevrolet;S10;2;105
+Chevrolet;SSR;1;106
+Chevrolet;Silverado;2;107
+Chevrolet;Silverado 1500;3;108
+Chevrolet;Silverado 2500;3;109
+Chevrolet;Silverado 3500;3;110
+Chevrolet;Sportvan G30;1;111
+Chevrolet;Suburban;1;112
+Chevrolet;Suburban 1500;2;113
+Chevrolet;Suburban 2500;1;114
+Chevrolet;Tahoe;3;115
+Chevrolet;Tracker;3;116
+Chevrolet;TrailBlazer;2;117
+Chevrolet;Venture;1;118
+Chrysler;300;2;119
+Chrysler;Concorde;1;120
+Chrysler;New Yorker;1;121
+Chrysler;PT Cruiser;3;122
+Chrysler;Pacifica;1;123
+Chrysler;Sebring;3;124
+Chrysler;Town & Country;2;125
+Citroën;CX;1;126
+Citroën;SM;1;127
+Daewoo;Leganza;1;128
+Daewoo;Nubira;1;129
+Dodge;Aries;2;130
+Dodge;Caliber;1;131
+Dodge;Caravan;4;132
+Dodge;Charger;1;133
+Dodge;Colt;1;134
+Dodge;D350 Club;2;135
+Dodge;Dakota;3;136
+Dodge;Dakota Club;3;137
+Dodge;Durango;2;138
+Dodge;Grand Caravan;3;139
+Dodge;Intrepid;1;140
+Dodge;Neon;1;141
+Dodge;Ram;1;142
+Dodge;Ram 1500;2;143
+Dodge;Ram 2500;6;144
+Dodge;Ram 3500;1;145
+Dodge;Ram 3500 Club;1;146
+Dodge;Ram Van 1500;1;147
+Dodge;Ram Van 2500;1;148
+Dodge;Ram Van 3500;1;149
+Dodge;Ram Van B250;1;150
+Dodge;Sprinter;2;151
+Dodge;Stealth;1;152
+Dodge;Viper;3;153
+Eagle;Summit;3;154
+Eagle;Talon;3;155
+Eagle;Vision;3;156
+Fairthorpe;Rockette;1;157
+Ferrari;599 GTB Fiorano;2;158
+Ferrari;F430;1;159
+Ferrari;FF;1;160
+Fiat;Nuova 500;1;161
+Ford;Aerostar;1;162
+Ford;Bronco;1;163
+Ford;Contour;2;164
+Ford;Courier;1;165
+Ford;Crown Victoria;2;166
+Ford;E-Series;6;167
+Ford;E150;2;168
+Ford;E250;2;169
+Ford;E350;2;170
+Ford;Econoline E150;3;171
+Ford;Econoline E250;1;172
+Ford;Econoline E350;3;173
+Ford;Edge;1;174
+Ford;Escape;3;175
+Ford;Expedition;2;176
+Ford;Expedition EL;3;177
+Ford;Explorer;1;178
+Ford;Explorer Sport Trac;1;179
+Ford;F-350 Super Duty;1;180
+Ford;F-Series;1;181
+Ford;F-Series Super Duty;1;182
+Ford;F150;4;183
+Ford;F250;1;184
+Ford;F350;3;185
+Ford;F450;3;186
+Ford;Fairlane;1;187
+Ford;Festiva;2;188
+Ford;Fiesta;2;189
+Ford;Flex;2;190
+Ford;Focus;4;191
+Ford;Freestar;2;192
+Ford;Freestyle;2;193
+Ford;GT500;2;194
+Ford;Galaxie;1;195
+Ford;LTD;1;196
+Ford;Laser;1;197
+Ford;Mustang;6;198
+Ford;Ranger;7;199
+Ford;Taurus;5;200
+Ford;Taurus X;1;201
+Ford;Tempo;2;202
+Ford;Thunderbird;3;203
+Ford;Transit Connect;1;204
+GMC;1500;1;205
+GMC;2500;2;206
+GMC;2500 Club Coupe;2;207
+GMC;3500;1;208
+GMC;3500 Club Coupe;1;209
+GMC;Canyon;1;210
+GMC;Envoy;1;211
+GMC;Envoy XL;2;212
+GMC;Jimmy;2;213
+GMC;Rally Wagon 2500;3;214
+GMC;Rally Wagon 3500;2;215
+GMC;Savana;1;216
+GMC;Savana 1500;2;217
+GMC;Savana 2500;1;218
+GMC;Savana 3500;2;219
+GMC;Sierra 1500;2;220
+GMC;Sierra 2500HD;1;221
+GMC;Sonoma;2;222
+GMC;Sonoma Club Coupe;3;223
+GMC;Suburban 1500;1;224
+GMC;Suburban 2500;1;225
+GMC;Vandura 1500;1;226
+GMC;Vandura 3500;2;227
+GMC;Yukon;7;228
+GMC;Yukon XL 1500;5;229
+Geo;Metro;1;230
+Hillman;Minx Magnificent;1;231
+Honda;Accord;6;232
+Honda;CR-V;1;233
+Honda;CR-X;2;234
+Honda;Civic;4;235
+Honda;Element;1;236
+Honda;Fit;4;237
+Honda;Insight;2;238
+Honda;Odyssey;1;239
+Honda;Pilot;1;240
+Honda;Ridgeline;1;241
+Honda;S2000;1;242
+Hummer;H3;1;243
+Hyundai;Azera;1;244
+Hyundai;Elantra;3;245
+Hyundai;Genesis;2;246
+Hyundai;HED-5;1;247
+Hyundai;Santa Fe;5;248
+Hyundai;Sonata;6;249
+Hyundai;Tiburon;2;250
+Hyundai;Veracruz;1;251
+Infiniti;FX;1;252
+Infiniti;G;2;253
+Infiniti;G35;1;254
+Infiniti;M;1;255
+Infiniti;Q;2;256
+Infiniti;QX;3;257
+Infiniti;QX56;2;258
+Isuzu;Ascender;2;259
+Isuzu;Hombre;1;260
+Isuzu;Rodeo;2;261
+Isuzu;Rodeo Sport;1;262
+Isuzu;Space;1;263
+Isuzu;i-Series;1;264
+Jaguar;S-Type;1;265
+Jaguar;XF;1;266
+Jaguar;XJ;1;267
+Jaguar;XJ Series;2;268
+Jaguar;XK;1;269
+Jaguar;XK Series;2;270
+Jeep;Compass;1;271
+Jeep;Grand Cherokee;2;272
+Jeep;Liberty;3;273
+Jeep;Patriot;1;274
+Jeep;Wrangler;3;275
+Kia;Amanti;1;276
+Kia;Optima;3;277
+Kia;Rio;3;278
+Kia;Rondo;1;279
+Kia;Sedona;1;280
+Kia;Sephia;1;281
+Kia;Soul;2;282
+Kia;Spectra;3;283
+Kia;Sportage;1;284
+Lamborghini;Diablo;1;285
+Lamborghini;Gallardo;1;286
+Lamborghini;Murciélago;1;287
+Lamborghini;Reventón;2;288
+Land Rover;Discovery;1;289
+Land Rover;Discovery Series II;1;290
+Land Rover;Freelander;2;291
+Land Rover;LR2;1;292
+Land Rover;LR4;1;293
+Land Rover;Range Rover;3;294
+Land Rover;Range Rover Classic;1;295
+Lexus;ES;3;296
+Lexus;GS;5;297
+Lexus;GX;1;298
+Lexus;HS;1;299
+Lexus;IS;7;300
+Lexus;IS-F;1;301
+Lexus;LS;3;302
+Lexus;LX;1;303
+Lexus;SC;1;304
+Lincoln;Blackwood;2;305
+Lincoln;Continental;1;306
+Lincoln;Continental Mark VII;1;307
+Lincoln;MKS;1;308
+Lincoln;MKT;1;309
+Lincoln;MKX;2;310
+Lincoln;Mark LT;1;311
+Lincoln;Mark VII;1;312
+Lincoln;Mark VIII;1;313
+Lincoln;Navigator;1;314
+Lincoln;Town Car;2;315
+Lotus;Elan;2;316
+Lotus;Esprit;1;317
+Lotus;Exige;1;318
+MINI;Clubman;1;319
+MINI;Cooper;3;320
+Maserati;430;1;321
+Maserati;Biturbo;1;322
+Maserati;Coupe;1;323
+Maserati;Spyder;1;324
+Maybach;57;4;325
+Maybach;62;1;326
+Mazda;626;1;327
+Mazda;929;4;328
+Mazda;B-Series;3;329
+Mazda;B-Series Plus;2;330
+Mazda;CX-7;2;331
+Mazda;CX-9;1;332
+Mazda;MPV;1;333
+Mazda;MX-5;3;334
+Mazda;MX-6;3;335
+Mazda;Mazda5;1;336
+Mazda;Mazda6;2;337
+Mazda;Miata MX-5;4;338
+Mazda;Protege5;1;339
+Mazda;RX-7;1;340
+Mazda;RX-8;1;341
+Mazda;Tribute;3;342
+Mercedes-Benz;300SL;1;343
+Mercedes-Benz;300TE;2;344
+Mercedes-Benz;400E;1;345
+Mercedes-Benz;600SEC;1;346
+Mercedes-Benz;600SEL;2;347
+Mercedes-Benz;C-Class;5;348
+Mercedes-Benz;CLK-Class;1;349
+Mercedes-Benz;CLS-Class;1;350
+Mercedes-Benz;E-Class;3;351
+Mercedes-Benz;G-Class;2;352
+Mercedes-Benz;M-Class;3;353
+Mercedes-Benz;R-Class;1;354
+Mercedes-Benz;S-Class;3;355
+Mercedes-Benz;SL-Class;5;356
+Mercedes-Benz;SLK-Class;5;357
+Mercedes-Benz;Sprinter 2500;1;358
+Mercury;Capri;1;359
+Mercury;Cougar;5;360
+Mercury;Grand Marquis;3;361
+Mercury;Lynx;1;362
+Mercury;Mariner;3;363
+Mercury;Monterey;1;364
+Mercury;Sable;2;365
+Mercury;Topaz;2;366
+Mercury;Tracer;4;367
+Mitsubishi;3000GT;2;368
+Mitsubishi;Chariot;2;369
+Mitsubishi;Diamante;3;370
+Mitsubishi;Eclipse;5;371
+Mitsubishi;Excel;1;372
+Mitsubishi;Expo;1;373
+Mitsubishi;GTO;2;374
+Mitsubishi;Galant;1;375
+Mitsubishi;Lancer;2;376
+Mitsubishi;Mighty Max;2;377
+Mitsubishi;Montero;1;378
+Mitsubishi;Montero Sport;2;379
+Mitsubishi;Outlander;5;380
+Mitsubishi;Outlander Sport;1;381
+Mitsubishi;Pajero;3;382
+Mitsubishi;Precis;2;383
+Mitsubishi;RVR;1;384
+Mitsubishi;Starion;2;385
+Mitsubishi;Truck;1;386
+Nissan;200SX;1;387
+Nissan;240SX;3;388
+Nissan;300ZX;2;389
+Nissan;350Z;2;390
+Nissan;Altima;5;391
+Nissan;Frontier;5;392
+Nissan;Leaf;2;393
+Nissan;Maxima;1;394
+Nissan;Murano;4;395
+Nissan;Pathfinder;2;396
+Nissan;Quest;3;397
+Nissan;Sentra;2;398
+Nissan;Titan;3;399
+Nissan;Versa;1;400
+Nissan;Xterra;4;401
+Oldsmobile;88;3;402
+Oldsmobile;98;1;403
+Oldsmobile;Alero;2;404
+Oldsmobile;Aurora;3;405
+Oldsmobile;Bravada;4;406
+Oldsmobile;Cutlass;1;407
+Oldsmobile;Cutlass Supreme;2;408
+Oldsmobile;LSS;3;409
+Oldsmobile;Silhouette;1;410
+Oldsmobile;Toronado;1;411
+Panoz;Esperante;2;412
+Peugeot;207;1;413
+Plymouth;Horizon;1;414
+Plymouth;Neon;2;415
+Pontiac;6000;1;416
+Pontiac;Bonneville;5;417
+Pontiac;Firebird;2;418
+Pontiac;Firefly;1;419
+Pontiac;G5;1;420
+Pontiac;G6;1;421
+Pontiac;G8;1;422
+Pontiac;GTO;2;423
+Pontiac;Grand Am;4;424
+Pontiac;Grand Prix;4;425
+Pontiac;LeMans;3;426
+Pontiac;Montana;1;427
+Pontiac;Montana SV6;2;428
+Pontiac;Sunbird;3;429
+Pontiac;Tempest;1;430
+Pontiac;Torrent;1;431
+Pontiac;Trans Sport;1;432
+Porsche;911;3;433
+Porsche;944;1;434
+Porsche;968;2;435
+Porsche;Boxster;2;436
+Porsche;Carrera GT;1;437
+Porsche;Cayenne;1;438
+Porsche;Cayman;1;439
+Porsche;Panamera;2;440
+Ram;1500;2;441
+Renault;Alliance;1;442
+Rolls-Royce;Phantom;3;443
+Saab;9-3;1;444
+Saab;900;2;445
+Saab;9000;1;446
+Saturn;Aura;1;447
+Saturn;Ion;1;448
+Saturn;L-Series;2;449
+Saturn;Outlook;1;450
+Saturn;S-Series;1;451
+Scion;tC;1;452
+Scion;xB;1;453
+Smart;Fortwo;1;454
+Spyker;C8 Laviolette;1;455
+Spyker;C8 Spyder Wide Body;1;456
+Subaru;Alcyone SVX;1;457
+Subaru;Brat;1;458
+Subaru;Forester;4;459
+Subaru;Impreza;2;460
+Subaru;Justy;1;461
+Subaru;Legacy;2;462
+Subaru;Leone;1;463
+Subaru;Outback;1;464
+Subaru;SVX;3;465
+Subaru;Tribeca;3;466
+Subaru;XT;1;467
+Suzuki;Aerio;2;468
+Suzuki;Esteem;1;469
+Suzuki;Grand Vitara;2;470
+Suzuki;SJ;1;471
+Suzuki;Samurai;1;472
+Suzuki;Swift;1;473
+Suzuki;Verona;1;474
+Suzuki;Vitara;2;475
+Suzuki;XL-7;1;476
+Suzuki;XL7;1;477
+Toyota;4Runner;4;478
+Toyota;Avalon;6;479
+Toyota;Camry;1;480
+Toyota;Camry Hybrid;1;481
+Toyota;Celica;2;482
+Toyota;Echo;1;483
+Toyota;FJ Cruiser;2;484
+Toyota;Highlander;2;485
+Toyota;Land Cruiser;4;486
+Toyota;MR2;2;487
+Toyota;Matrix;3;488
+Toyota;Prius;4;489
+Toyota;Prius v;1;490
+Toyota;RAV4;1;491
+Toyota;Sequoia;1;492
+Toyota;Sienna;1;493
+Toyota;Solara;1;494
+Toyota;T100;1;495
+Toyota;Tacoma;3;496
+Toyota;Tacoma Xtra;2;497
+Toyota;Truck Xtracab SR5;1;498
+Toyota;Tundra;1;499
+Toyota;Venza;2;500
+Toyota;Yaris;1;501
+Volkswagen;Beetle;1;502
+Volkswagen;CC;1;503
+Volkswagen;Cabriolet;2;504
+Volkswagen;Corrado;1;505
+Volkswagen;Eurovan;3;506
+Volkswagen;Fox;1;507
+Volkswagen;GTI;3;508
+Volkswagen;Golf;4;509
+Volkswagen;Golf III;1;510
+Volkswagen;Jetta;1;511
+Volkswagen;New Beetle;1;512
+Volkswagen;Passat;3;513
+Volkswagen;R32;1;514
+Volkswagen;Type 2;2;515
+Volkswagen;rio;2;516
+Volvo;240;1;517
+Volvo;850;1;518
+Volvo;C70;3;519
+Volvo;S40;2;520
+Volvo;S60;1;521
+Volvo;S70;2;522
+Volvo;S80;2;523
+Volvo;V70;2;524
+Volvo;V90;1;525
+Volvo;XC70;2;526
